@@ -1,4 +1,4 @@
-
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, HTTPException, Query
 
 from src.inference.recommender import load_recommender
@@ -8,6 +8,15 @@ app = FastAPI(
     title="SmartCart AI",
     description="Personalized E-Commerce Product Recommendation API",
     version="0.3.0"
+)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://smart-cart-ai-brown.vercel.app",
+    ],
+    allow_credentials=False,
+    allow_methods=["GET"],
+    allow_headers=["*"],
 )
 
 
