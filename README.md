@@ -2,6 +2,12 @@
 
 An end-to-end product recommendation system built using Python, machine learning, FastAPI, and React. SmartCart AI compares four recommendation approaches using synthetic e-commerce interaction data and serves personalized product recommendations through an API and web interface.
 
+## Live Deployment
+
+- **Frontend:** [smart-cart-ai-brown.vercel.app](https://smart-cart-ai-brown.vercel.app)
+- **Backend:** [smart-cart-ai-o3sl.onrender.com](https://smart-cart-ai-o3sl.onrender.com)
+- **API documentation:** [OpenAPI / Swagger docs](https://smart-cart-ai-o3sl.onrender.com/docs)
+
 ## 1. Project Overview
 
 SmartCart AI recommends products using historical user interaction signals.
