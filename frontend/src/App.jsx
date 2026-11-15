@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import "./App.css";
 
-const API = "/api";
+const API = import.meta.env.VITE_API_BASE_URL || "/api";
 
 const CATEGORY_ICONS = {
   Electronics: "⌁",
