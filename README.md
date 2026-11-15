@@ -8,6 +8,14 @@ An end-to-end product recommendation system built using Python, machine learning
 - **Backend:** [smart-cart-ai-o3sl.onrender.com](https://smart-cart-ai-o3sl.onrender.com)
 - **API documentation:** [OpenAPI / Swagger docs](https://smart-cart-ai-o3sl.onrender.com/docs)
 
+## Technical Report
+
+The complete technical report covers the system architecture,
+dataset, recommendation approaches, evaluation methodology,
+results, error analysis, deployment, and limitations.
+
+[Download Technical Report](reports/SmartCart_AI_Technical_Report.pdf)
+
 ## 1. Project Overview
 
 SmartCart AI recommends products using historical user interaction signals.
