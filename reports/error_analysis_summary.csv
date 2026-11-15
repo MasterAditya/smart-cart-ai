@@ -1,0 +1,15 @@
+Measure,Value
+Evaluated users,288.0
+Users with zero relevant recommendations,262.0
+Users with at least one relevant recommendation,26.0
+Average Precision@10,0.009722222222222222
+Average Recall@10,0.06608796296296296
+Average NDCG@10,0.03991150555980695
+Unique recommended products,145.0
+Total catalogue products,1000.0
+Eligible products in development data,956.0
+Catalogue coverage (%),14.499999999999998
+Eligible-product coverage (%),15.167364016736402
+Cold-product test interactions,12.0
+Cold-product relevant interactions,3.0
+Cold-product relevant products,3.0

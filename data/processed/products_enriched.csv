@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,description,average_rating
+P0001,Ceramic Table Lamp,Home,CasaLiving,17.72,Bring practical style to your space with this thoughtfully designed home essential.,4.2
+P0002,Hydrating Face Serum,Beauty,GlowTheory,47.85,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.7
+P0003,Foundations of Modern Science,Books,PageTurner,12.2,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.7
+P0004,FlexRun Training Shoes,Sports,MotionLab,84.89,Support your active routine with practical design suited to training and everyday movement.,4.2
+P0005,Classic Leather Sling Bag,Accessories,UrbanCraft,18.75,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.0
+P0006,Wireless Bluetooth Earbuds,Electronics,NovaTech,27.01,"Designed for convenient everyday use, this wireless bluetooth earbuds combines practical functionality with a clean, modern design.",2.9
+P0007,Portable Bluetooth Speaker,Electronics,Soundora,12.44,A versatile technology essential featuring a compact design and useful features for daily routines.,4.7
+P0008,Adjustable Resistance Bands,Sports,FlexFit,55.02,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.5
+P0009,The Art of Deep Learning,Books,BrightLeaf,17.36,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.4
+P0010,Modular Storage Organizer,Home,OakAndStone,168.54,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.8
+P0011,A Beginner's Guide to History,Books,KnowledgeHouse,26.16,Discover an engaging learning experience through this carefully titled publication.,3.6
+P0012,Professional Yoga Mat,Sports,PeakMotion,44.48,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.8
+P0013,Classic Oxford Shirt,Clothing,ThreadTheory,88.72,"Made for everyday versatility, this classic oxford shirt offers a comfortable fit and an easy-to-style look.",3.1
+P0014,Minimalist Wall Clock,Home,HavenWorks,43.52,Designed to complement your interiors while adding convenience to your daily routine.,4.6
+P0015,Daily Repair Shampoo,Beauty,PureBloom,37.78,"Made for everyday beauty routines, with a practical format for regular personal care.",4.2
+P0016,Cotton Cushion Cover Set,Home,NordNest,80.32,Bring practical style to your space with this thoughtfully designed home essential.,3.8
+P0017,The Mystery of the Lost Archive,Books,Inkstone,30.22,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.3
+P0018,Lightweight Running Shorts,Sports,ActiveCore,22.62,Support your active routine with practical design suited to training and everyday movement.,3.0
+P0019,Minimalist Travel Wallet,Accessories,CarryCulture,22.63,A useful everyday companion combining a clean design with convenient functionality.,4.8
+P0020,Gentle Foaming Face Wash,Beauty,DermaNest,64.82,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.2
+P0021,Everyday Canvas Backpack,Accessories,Forma,16.74,"Designed to complement daily outfits and routines with a simple, versatile look.",4.3
+P0022,Relaxed Fit Cotton Hoodie,Clothing,UrbanWeave,36.3,A wardrobe essential designed to work across casual outings and everyday occasions.,3.0
+P0023,Modern Kitchen Container Set,Home,HomeTheory,28.83,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.5
+P0024,Stainless Steel Sports Bottle,Sports,StrideWorks,50.54,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.9
+P0025,Learning Python Step by Step,Books,OpenChapter,74.21,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.9
+P0026,Wooden Serving Tray,Home,CasaLiving,100.45,Designed to complement your interiors while adding convenience to your daily routine.,4.9
+P0027,Everyday Casual T-Shirt,Clothing,Northline,11.66,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.8
+P0028,Stainless Steel Wristwatch,Accessories,EverydayEdit,31.68,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.1
+P0029,Compact Card Holder,Accessories,NomadWorks,39.26,A useful everyday companion combining a clean design with convenient functionality.,3.5
+P0030,Compact Desk Organizer,Home,OakAndStone,9.58,Bring practical style to your space with this thoughtfully designed home essential.,4.8
+P0031,The Psychology of Everyday Life,Books,PageTurner,9.35,Discover an engaging learning experience through this carefully titled publication.,3.3
+P0032,Nourishing Body Lotion,Beauty,SkinKind,28.6,A daily personal-care essential designed to fit conveniently into your self-care routine.,5.0
+P0033,Creative Building Blocks,Toys,PlayOrbit,8.32,Encourage curiosity and creative play with this engaging activity for young learners.,4.9
+P0034,Compact Fitness Dumbbells,Sports,MotionLab,67.04,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.8
+P0035,Smart Fitness Watch,Electronics,VoltEdge,70.84,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.4
+P0036,Slim Fit Denim Jeans,Clothing,CottonLane,43.21,"Made for everyday versatility, this slim fit denim jeans offers a comfortable fit and an easy-to-style look.",4.2
+P0037,Vitamin C Brightening Cream,Beauty,BotaniCare,26.04,"Made for everyday beauty routines, with a practical format for regular personal care.",3.1
+P0038,Noise Cancelling Headphones,Electronics,PixelWorks,8.77,"Designed for convenient everyday use, this noise cancelling headphones combines practical functionality with a clean, modern design.",4.5
+P0039,Compact Power Bank,Electronics,Auralink,25.0,A versatile technology essential featuring a compact design and useful features for daily routines.,4.2
+P0040,Mechanical Gaming Keyboard,Electronics,NovaTech,24.07,Bring convenience to your setup with this thoughtfully designed electronic accessory.,2.8
+P0041,Moisture Repair Hair Mask,Beauty,GlowTheory,66.14,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.8
+P0042,Lightweight Summer Jacket,Clothing,ModeCraft,45.51,A wardrobe essential designed to work across casual outings and everyday occasions.,3.2
+P0043,Daily Sunscreen Lotion,Beauty,PureBloom,77.79,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.3
+P0044,Refreshing Facial Toner,Beauty,DermaNest,10.26,"Made for everyday beauty routines, with a practical format for regular personal care.",3.5
+P0045,Overnight Skin Repair Cream,Beauty,SkinKind,69.66,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.6
+P0046,Decorative Table Vase,Home,HavenWorks,49.41,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.1
+P0047,Junior Science Discovery Kit,Toys,WonderWorks,87.22,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.8
+P0048,Introduction to Data Science,Books,BrightLeaf,26.15,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.8
+P0049,Wooden Puzzle Adventure,Toys,LittleGenius,26.68,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.2
+P0050,Formal Office Trousers,Clothing,ThreadTheory,16.93,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.8
+P0051,Soft Cotton Bedsheet Set,Home,NordNest,22.53,Designed to complement your interiors while adding convenience to your daily routine.,4.0
+P0052,Premium Laptop Sleeve,Accessories,UrbanCraft,4.11,"Designed to complement daily outfits and routines with a simple, versatile look.",3.7
+P0053,Outdoor Cycling Gloves,Sports,FlexFit,17.81,Support your active routine with practical design suited to training and everyday movement.,4.4
+P0054,Classic Aviator Sunglasses,Accessories,CarryCulture,16.54,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.9
+P0055,Performance Training T-Shirt,Sports,PeakMotion,11.14,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.8
+P0056,Creative Art and Craft Set,Toys,BrightMinds,134.72,Encourage curiosity and creative play with this engaging activity for young learners.,3.6
+P0057,The Complete Guide to Astronomy,Books,KnowledgeHouse,15.55,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.4
+P0058,Wireless Optical Mouse,Electronics,Soundora,10.46,"Designed for convenient everyday use, this wireless optical mouse combines practical functionality with a clean, modern design.",4.3
+P0059,Cotton Polo Shirt,Clothing,UrbanWeave,42.2,"Made for everyday versatility, this cotton polo shirt offers a comfortable fit and an easy-to-style look.",3.4
+P0060,HD Webcam,Electronics,VoltEdge,18.76,A versatile technology essential featuring a compact design and useful features for daily routines.,3.8
+P0061,Natural Lip Care Balm,Beauty,BotaniCare,45.75,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.9
+P0062,Stories from Around the World,Books,Inkstone,58.2,Discover an engaging learning experience through this carefully titled publication.,3.4
+P0063,Comfort Fit Joggers,Clothing,Northline,33.89,A wardrobe essential designed to work across casual outings and everyday occasions.,3.4
+P0064,Interactive Learning Board,Toys,FunFoundry,72.05,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.0
+P0065,Adjustable Leather Belt,Accessories,Forma,45.97,A useful everyday companion combining a clean design with convenient functionality.,4.6
+P0066,Exercise Jump Rope,Sports,ActiveCore,32.54,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.9
+P0067,Contemporary Wall Shelf,Home,HomeTheory,54.22,Bring practical style to your space with this thoughtfully designed home essential.,4.9
+P0068,Smart LED Desk Lamp,Electronics,PixelWorks,54.27,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.5
+P0069,Sports Gym Duffel Bag,Sports,StrideWorks,28.82,Support your active routine with practical design suited to training and everyday movement.,3.8
+P0070,Travel Organizer Pouch,Accessories,EverydayEdit,93.88,"Designed to complement daily outfits and routines with a simple, versatile look.",2.8
+P0071,Ceramic Table Lamp - Series 2,Home,CasaLiving,15.67,"A functional home accessory with a contemporary look, suited to modern everyday living.",5.0
+P0072,Colorful Stacking Rings,Toys,PlayOrbit,133.31,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.4
+P0073,Modular Storage Organizer - Series 2,Home,OakAndStone,57.83,Designed to complement your interiors while adding convenience to your daily routine.,3.9
+P0074,Mini Construction Vehicle Set,Toys,WonderWorks,14.88,Encourage curiosity and creative play with this engaging activity for young learners.,3.8
+P0075,Hydrating Face Serum - Series 2,Beauty,GlowTheory,28.26,"Made for everyday beauty routines, with a practical format for regular personal care.",4.9
+P0076,FlexRun Training Shoes - Series 2,Sports,MotionLab,44.05,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.2
+P0077,Minimalist Keychain Set,Accessories,NomadWorks,50.45,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.6
+P0078,Portable SSD Drive,Electronics,Auralink,14.38,"Designed for convenient everyday use, this portable ssd drive combines practical functionality with a clean, modern design.",4.7
+P0079,Classic Leather Sling Bag - Series 2,Accessories,UrbanCraft,17.42,A useful everyday companion combining a clean design with convenient functionality.,2.9
+P0080,Adjustable Resistance Bands - Series 2,Sports,FlexFit,53.24,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.6
+P0081,Minimalist Wall Clock - Series 2,Home,HavenWorks,17.82,Bring practical style to your space with this thoughtfully designed home essential.,5.0
+P0082,Daily Repair Shampoo - Series 2,Beauty,PureBloom,32.08,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.2
+P0083,Gentle Foaming Face Wash - Series 2,Beauty,DermaNest,34.92,A daily personal-care essential designed to fit conveniently into your self-care routine.,2.9
+P0084,Professional Yoga Mat - Series 2,Sports,PeakMotion,42.2,Support your active routine with practical design suited to training and everyday movement.,3.2
+P0085,Textured Knit Sweater,Clothing,CottonLane,20.36,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.0
+P0086,Principles of Creative Thinking,Books,OpenChapter,87.08,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.8
+P0087,Everyday Linen Shirt,Clothing,ModeCraft,57.45,"Made for everyday versatility, this everyday linen shirt offers a comfortable fit and an easy-to-style look.",4.5
+P0088,Nourishing Body Lotion - Series 2,Beauty,SkinKind,43.42,"Made for everyday beauty routines, with a practical format for regular personal care.",4.6
+P0089,Minimalist Travel Wallet - Series 2,Accessories,CarryCulture,128.72,"Designed to complement daily outfits and routines with a simple, versatile look.",4.5
+P0090,Wireless Bluetooth Earbuds - Series 2,Electronics,NovaTech,32.79,A versatile technology essential featuring a compact design and useful features for daily routines.,4.6
+P0091,Foundations of Modern Science - Series 2,Books,PageTurner,47.4,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.7
+P0092,Cotton Cushion Cover Set - Series 2,Home,NordNest,58.38,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.7
+P0093,Lightweight Running Shorts - Series 2,Sports,ActiveCore,72.2,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.5
+P0094,The Art of Deep Learning - Series 2,Books,BrightLeaf,39.61,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0095,Stainless Steel Sports Bottle - Series 2,Sports,StrideWorks,90.14,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.4
+P0096,Classic Oxford Shirt - Series 2,Clothing,ThreadTheory,22.22,A wardrobe essential designed to work across casual outings and everyday occasions.,3.1
+P0097,Compact Fitness Dumbbells - Series 2,Sports,MotionLab,103.99,Support your active routine with practical design suited to training and everyday movement.,3.4
+P0098,Modern Kitchen Container Set - Series 2,Home,HomeTheory,23.58,Designed to complement your interiors while adding convenience to your daily routine.,2.9
+P0099,Educational Number Puzzle,Toys,LittleGenius,44.5,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0100,Everyday Canvas Backpack - Series 2,Accessories,Forma,47.86,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.2
+P0101,Vitamin C Brightening Cream - Series 2,Beauty,BotaniCare,23.15,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.1
+P0102,Outdoor Cycling Gloves - Series 2,Sports,FlexFit,107.33,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.9
+P0103,Portable Bluetooth Speaker - Series 2,Electronics,Soundora,11.22,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.9
+P0104,Magnetic Building Tiles,Toys,BrightMinds,32.31,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.2
+P0105,Wooden Serving Tray - Series 2,Home,CasaLiving,59.19,Bring practical style to your space with this thoughtfully designed home essential.,2.9
+P0106,Animal Discovery Play Set,Toys,FunFoundry,10.01,Encourage curiosity and creative play with this engaging activity for young learners.,4.9
+P0107,Moisture Repair Hair Mask - Series 2,Beauty,GlowTheory,28.47,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.6
+P0108,Creative Building Blocks - Series 2,Toys,PlayOrbit,19.12,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0109,Junior Science Discovery Kit - Series 2,Toys,WonderWorks,40.88,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.7
+P0110,Wooden Puzzle Adventure - Series 2,Toys,LittleGenius,43.3,Encourage curiosity and creative play with this engaging activity for young learners.,4.1
+P0111,Creative Art and Craft Set - Series 2,Toys,BrightMinds,56.16,Designed to make playtime enjoyable while encouraging exploration and imagination.,2.9
+P0112,A Beginner's Guide to History - Series 2,Books,KnowledgeHouse,106.57,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.0
+P0113,Compact Desk Organizer - Series 2,Home,OakAndStone,37.58,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.4
+P0114,Interactive Learning Board - Series 2,Toys,FunFoundry,43.14,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.7
+P0115,Daily Sunscreen Lotion - Series 2,Beauty,PureBloom,62.46,"Made for everyday beauty routines, with a practical format for regular personal care.",4.7
+P0116,Refreshing Facial Toner - Series 2,Beauty,DermaNest,15.41,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.3
+P0117,Overnight Skin Repair Cream - Series 2,Beauty,SkinKind,37.8,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.2
+P0118,Colorful Stacking Rings - Series 2,Toys,PlayOrbit,14.22,Encourage curiosity and creative play with this engaging activity for young learners.,3.5
+P0119,Relaxed Fit Cotton Hoodie - Series 2,Clothing,UrbanWeave,23.14,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.8
+P0120,Mini Construction Vehicle Set - Series 2,Toys,WonderWorks,67.11,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.9
+P0121,Smart Fitness Watch - Series 2,Electronics,VoltEdge,48.67,"Designed for convenient everyday use, this smart fitness watch - series 2 combines practical functionality with a clean, modern design.",4.1
+P0122,Performance Training T-Shirt - Series 2,Sports,PeakMotion,44.86,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.2
+P0123,Stainless Steel Wristwatch - Series 2,Accessories,EverydayEdit,34.44,A useful everyday companion combining a clean design with convenient functionality.,3.9
+P0124,The Mystery of the Lost Archive - Series 2,Books,Inkstone,64.94,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.0
+P0125,Natural Lip Care Balm - Series 2,Beauty,BotaniCare,166.44,"Made for everyday beauty routines, with a practical format for regular personal care.",4.1
+P0126,Learning Python Step by Step - Series 2,Books,OpenChapter,92.64,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0127,Noise Cancelling Headphones - Series 2,Electronics,PixelWorks,223.2,A versatile technology essential featuring a compact design and useful features for daily routines.,4.0
+P0128,Everyday Casual T-Shirt - Series 2,Clothing,Northline,99.69,"Made for everyday versatility, this everyday casual t-shirt - series 2 offers a comfortable fit and an easy-to-style look.",3.4
+P0129,The Psychology of Everyday Life - Series 2,Books,PageTurner,23.05,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.0
+P0130,Introduction to Data Science - Series 2,Books,BrightLeaf,5.09,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.0
+P0131,Exercise Jump Rope - Series 2,Sports,ActiveCore,40.86,Support your active routine with practical design suited to training and everyday movement.,5.0
+P0132,Educational Number Puzzle - Series 2,Toys,LittleGenius,112.91,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.7
+P0133,Magnetic Building Tiles - Series 2,Toys,BrightMinds,54.8,Encourage curiosity and creative play with this engaging activity for young learners.,3.6
+P0134,The Complete Guide to Astronomy - Series 2,Books,KnowledgeHouse,95.12,Discover an engaging learning experience through this carefully titled publication.,3.4
+P0135,Stories from Around the World - Series 2,Books,Inkstone,121.81,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.1
+P0136,Compact Card Holder - Series 2,Accessories,NomadWorks,49.18,"Designed to complement daily outfits and routines with a simple, versatile look.",2.8
+P0137,Sports Gym Duffel Bag - Series 2,Sports,StrideWorks,75.63,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.4
+P0138,Decorative Table Vase - Series 2,Home,HavenWorks,8.66,Designed to complement your interiors while adding convenience to your daily routine.,2.8
+P0139,Animal Discovery Play Set - Series 2,Toys,FunFoundry,24.07,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.1
+P0140,FlexRun Training Shoes - Series 3,Sports,MotionLab,39.33,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.8
+P0141,Creative Building Blocks - Series 3,Toys,PlayOrbit,51.57,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.5
+P0142,Premium Laptop Sleeve - Series 2,Accessories,UrbanCraft,31.06,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.0
+P0143,Classic Aviator Sunglasses - Series 2,Accessories,CarryCulture,30.24,A useful everyday companion combining a clean design with convenient functionality.,2.9
+P0144,Soft Cotton Bedsheet Set - Series 2,Home,NordNest,37.11,Bring practical style to your space with this thoughtfully designed home essential.,3.0
+P0145,Principles of Creative Thinking - Series 2,Books,OpenChapter,23.94,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.2
+P0146,Adjustable Leather Belt - Series 2,Accessories,Forma,12.81,"Designed to complement daily outfits and routines with a simple, versatile look.",3.5
+P0147,Junior Science Discovery Kit - Series 3,Toys,WonderWorks,66.78,Encourage curiosity and creative play with this engaging activity for young learners.,3.8
+P0148,Foundations of Modern Science - Series 3,Books,PageTurner,11.65,Discover an engaging learning experience through this carefully titled publication.,4.0
+P0149,Contemporary Wall Shelf - Series 2,Home,HomeTheory,35.25,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.1
+P0150,Wooden Puzzle Adventure - Series 3,Toys,LittleGenius,49.94,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.5
+P0151,The Art of Deep Learning - Series 3,Books,BrightLeaf,11.76,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.4
+P0152,Adjustable Resistance Bands - Series 3,Sports,FlexFit,20.58,Support your active routine with practical design suited to training and everyday movement.,4.1
+P0153,Travel Organizer Pouch - Series 2,Accessories,EverydayEdit,111.9,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.1
+P0154,Creative Art and Craft Set - Series 3,Toys,BrightMinds,10.02,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.9
+P0155,Compact Power Bank - Series 2,Electronics,Auralink,94.66,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.6
+P0156,A Beginner's Guide to History - Series 3,Books,KnowledgeHouse,12.91,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.5
+P0157,Ceramic Table Lamp - Series 3,Home,CasaLiving,19.72,Designed to complement your interiors while adding convenience to your daily routine.,3.0
+P0158,Slim Fit Denim Jeans - Series 2,Clothing,CottonLane,85.34,A wardrobe essential designed to work across casual outings and everyday occasions.,4.8
+P0159,Lightweight Summer Jacket - Series 2,Clothing,ModeCraft,70.44,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.6
+P0160,Interactive Learning Board - Series 3,Toys,FunFoundry,72.0,Encourage curiosity and creative play with this engaging activity for young learners.,4.6
+P0161,Professional Yoga Mat - Series 3,Sports,PeakMotion,21.74,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.0
+P0162,Lightweight Running Shorts - Series 3,Sports,ActiveCore,10.16,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.0
+P0163,Minimalist Keychain Set - Series 2,Accessories,NomadWorks,16.58,A useful everyday companion combining a clean design with convenient functionality.,4.0
+P0164,Formal Office Trousers - Series 2,Clothing,ThreadTheory,66.45,"Made for everyday versatility, this formal office trousers - series 2 offers a comfortable fit and an easy-to-style look.",4.2
+P0165,Hydrating Face Serum - Series 3,Beauty,GlowTheory,62.69,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.6
+P0166,Stainless Steel Sports Bottle - Series 3,Sports,StrideWorks,71.64,Support your active routine with practical design suited to training and everyday movement.,2.8
+P0167,The Mystery of the Lost Archive - Series 3,Books,Inkstone,39.38,Discover an engaging learning experience through this carefully titled publication.,2.8
+P0168,Modular Storage Organizer - Series 3,Home,OakAndStone,113.67,Bring practical style to your space with this thoughtfully designed home essential.,3.3
+P0169,Minimalist Wall Clock - Series 3,Home,HavenWorks,23.9,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.5
+P0170,Learning Python Step by Step - Series 3,Books,OpenChapter,36.91,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.9
+P0171,Cotton Polo Shirt - Series 2,Clothing,UrbanWeave,48.75,A wardrobe essential designed to work across casual outings and everyday occasions.,3.8
+P0172,Daily Repair Shampoo - Series 3,Beauty,PureBloom,126.63,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.9
+P0173,Comfort Fit Joggers - Series 2,Clothing,Northline,145.49,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.2
+P0174,Gentle Foaming Face Wash - Series 3,Beauty,DermaNest,40.78,"Made for everyday beauty routines, with a practical format for regular personal care.",4.6
+P0175,Colorful Stacking Rings - Series 3,Toys,PlayOrbit,153.96,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.1
+P0176,Nourishing Body Lotion - Series 3,Beauty,SkinKind,167.3,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.2
+P0177,Cotton Cushion Cover Set - Series 3,Home,NordNest,26.94,Designed to complement your interiors while adding convenience to your daily routine.,3.8
+P0178,Mechanical Gaming Keyboard - Series 2,Electronics,NovaTech,35.47,"Designed for convenient everyday use, this mechanical gaming keyboard - series 2 combines practical functionality with a clean, modern design.",3.1
+P0179,The Psychology of Everyday Life - Series 3,Books,PageTurner,64.12,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.9
+P0180,Introduction to Data Science - Series 3,Books,BrightLeaf,73.01,Discover an engaging learning experience through this carefully titled publication.,4.5
+P0181,The Complete Guide to Astronomy - Series 3,Books,KnowledgeHouse,11.01,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.3
+P0182,Mini Construction Vehicle Set - Series 3,Toys,WonderWorks,8.47,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.5
+P0183,Modern Kitchen Container Set - Series 3,Home,HomeTheory,118.66,Bring practical style to your space with this thoughtfully designed home essential.,4.6
+P0184,Textured Knit Sweater - Series 2,Clothing,CottonLane,142.85,"Made for everyday versatility, this textured knit sweater - series 2 offers a comfortable fit and an easy-to-style look.",4.9
+P0185,Wireless Optical Mouse - Series 2,Electronics,Soundora,10.41,A versatile technology essential featuring a compact design and useful features for daily routines.,3.4
+P0186,Wooden Serving Tray - Series 3,Home,CasaLiving,46.39,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.2
+P0187,HD Webcam - Series 2,Electronics,VoltEdge,104.56,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.6
+P0188,Everyday Linen Shirt - Series 2,Clothing,ModeCraft,52.19,A wardrobe essential designed to work across casual outings and everyday occasions.,4.7
+P0189,Classic Oxford Shirt - Series 3,Clothing,ThreadTheory,51.01,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0190,Smart LED Desk Lamp - Series 2,Electronics,PixelWorks,69.04,"Designed for convenient everyday use, this smart led desk lamp - series 2 combines practical functionality with a clean, modern design.",4.4
+P0191,Portable SSD Drive - Series 2,Electronics,Auralink,9.63,A versatile technology essential featuring a compact design and useful features for daily routines.,3.0
+P0192,Wireless Bluetooth Earbuds - Series 3,Electronics,NovaTech,47.16,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.3
+P0193,Vitamin C Brightening Cream - Series 3,Beauty,BotaniCare,75.22,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.1
+P0194,Compact Fitness Dumbbells - Series 3,Sports,MotionLab,30.14,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.8
+P0195,Educational Number Puzzle - Series 3,Toys,LittleGenius,22.68,Encourage curiosity and creative play with this engaging activity for young learners.,4.4
+P0196,Magnetic Building Tiles - Series 3,Toys,BrightMinds,47.4,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.1
+P0197,Moisture Repair Hair Mask - Series 3,Beauty,GlowTheory,21.92,"Made for everyday beauty routines, with a practical format for regular personal care.",3.4
+P0198,Daily Sunscreen Lotion - Series 3,Beauty,PureBloom,40.61,A thoughtfully presented beauty essential for a simple and convenient daily routine.,5.0
+P0199,Animal Discovery Play Set - Series 3,Toys,FunFoundry,31.6,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.7
+P0200,Stories from Around the World - Series 3,Books,Inkstone,37.87,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.6
+P0201,Classic Leather Sling Bag - Series 3,Accessories,UrbanCraft,138.42,"Designed to complement daily outfits and routines with a simple, versatile look.",3.2
+P0202,Outdoor Cycling Gloves - Series 3,Sports,FlexFit,9.74,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.7
+P0203,Performance Training T-Shirt - Series 3,Sports,PeakMotion,49.46,Support your active routine with practical design suited to training and everyday movement.,4.0
+P0204,Relaxed Fit Cotton Hoodie - Series 3,Clothing,UrbanWeave,23.93,"Made for everyday versatility, this relaxed fit cotton hoodie - series 3 offers a comfortable fit and an easy-to-style look.",3.2
+P0205,Minimalist Travel Wallet - Series 3,Accessories,CarryCulture,29.97,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.8
+P0206,Portable Bluetooth Speaker - Series 3,Electronics,Soundora,118.75,"Designed for convenient everyday use, this portable bluetooth speaker - series 3 combines practical functionality with a clean, modern design.",3.4
+P0207,Principles of Creative Thinking - Series 3,Books,OpenChapter,130.89,Discover an engaging learning experience through this carefully titled publication.,4.1
+P0208,Refreshing Facial Toner - Series 3,Beauty,DermaNest,34.25,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.6
+P0209,Everyday Canvas Backpack - Series 3,Accessories,Forma,10.83,A useful everyday companion combining a clean design with convenient functionality.,2.9
+P0210,Foundations of Modern Science - Series 4,Books,PageTurner,18.65,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.7
+P0211,Creative Building Blocks - Series 4,Toys,PlayOrbit,58.64,Encourage curiosity and creative play with this engaging activity for young learners.,4.0
+P0212,Everyday Casual T-Shirt - Series 3,Clothing,Northline,17.57,A wardrobe essential designed to work across casual outings and everyday occasions.,3.0
+P0213,Stainless Steel Wristwatch - Series 3,Accessories,EverydayEdit,54.61,"Designed to complement daily outfits and routines with a simple, versatile look.",5.0
+P0214,Slim Fit Denim Jeans - Series 3,Clothing,CottonLane,68.71,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.5
+P0215,Smart Fitness Watch - Series 3,Electronics,VoltEdge,44.09,A versatile technology essential featuring a compact design and useful features for daily routines.,3.1
+P0216,The Art of Deep Learning - Series 4,Books,BrightLeaf,106.43,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.3
+P0217,Exercise Jump Rope - Series 3,Sports,ActiveCore,20.52,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.6
+P0218,Compact Card Holder - Series 3,Accessories,NomadWorks,15.23,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.7
+P0219,Premium Laptop Sleeve - Series 3,Accessories,UrbanCraft,19.92,A useful everyday companion combining a clean design with convenient functionality.,4.5
+P0220,Compact Desk Organizer - Series 3,Home,OakAndStone,65.74,Designed to complement your interiors while adding convenience to your daily routine.,3.1
+P0221,Junior Science Discovery Kit - Series 4,Toys,WonderWorks,88.64,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.2
+P0222,Overnight Skin Repair Cream - Series 3,Beauty,SkinKind,54.25,"Made for everyday beauty routines, with a practical format for regular personal care.",2.9
+P0223,Classic Aviator Sunglasses - Series 3,Accessories,CarryCulture,16.47,"Designed to complement daily outfits and routines with a simple, versatile look.",4.8
+P0224,A Beginner's Guide to History - Series 4,Books,KnowledgeHouse,24.03,Discover an engaging learning experience through this carefully titled publication.,5.0
+P0225,Noise Cancelling Headphones - Series 3,Electronics,PixelWorks,24.03,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.4
+P0226,Wooden Puzzle Adventure - Series 4,Toys,LittleGenius,83.58,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.3
+P0227,Adjustable Leather Belt - Series 3,Accessories,Forma,291.8,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",2.9
+P0228,The Mystery of the Lost Archive - Series 4,Books,Inkstone,125.01,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.3
+P0229,Learning Python Step by Step - Series 4,Books,OpenChapter,43.42,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.6
+P0230,Lightweight Summer Jacket - Series 3,Clothing,ModeCraft,122.69,"Made for everyday versatility, this lightweight summer jacket - series 3 offers a comfortable fit and an easy-to-style look.",4.5
+P0231,The Psychology of Everyday Life - Series 4,Books,PageTurner,67.13,Discover an engaging learning experience through this carefully titled publication.,3.7
+P0232,Compact Power Bank - Series 3,Electronics,Auralink,33.29,"Designed for convenient everyday use, this compact power bank - series 3 combines practical functionality with a clean, modern design.",3.1
+P0233,Natural Lip Care Balm - Series 3,Beauty,BotaniCare,43.88,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.2
+P0234,Travel Organizer Pouch - Series 3,Accessories,EverydayEdit,26.38,A useful everyday companion combining a clean design with convenient functionality.,3.3
+P0235,Creative Art and Craft Set - Series 4,Toys,BrightMinds,40.67,Encourage curiosity and creative play with this engaging activity for young learners.,3.2
+P0236,Decorative Table Vase - Series 3,Home,HavenWorks,76.13,Bring practical style to your space with this thoughtfully designed home essential.,3.3
+P0237,Mechanical Gaming Keyboard - Series 3,Electronics,NovaTech,40.73,A versatile technology essential featuring a compact design and useful features for daily routines.,3.1
+P0238,Wireless Optical Mouse - Series 3,Electronics,Soundora,262.55,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.0
+P0239,Interactive Learning Board - Series 4,Toys,FunFoundry,58.55,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.6
+P0240,Formal Office Trousers - Series 3,Clothing,ThreadTheory,42.8,A wardrobe essential designed to work across casual outings and everyday occasions.,4.2
+P0241,Cotton Polo Shirt - Series 3,Clothing,UrbanWeave,24.57,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0242,HD Webcam - Series 3,Electronics,VoltEdge,84.1,"Designed for convenient everyday use, this hd webcam - series 3 combines practical functionality with a clean, modern design.",3.1
+P0243,Minimalist Keychain Set - Series 3,Accessories,NomadWorks,21.84,"Designed to complement daily outfits and routines with a simple, versatile look.",5.0
+P0244,Introduction to Data Science - Series 4,Books,BrightLeaf,20.75,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.1
+P0245,Comfort Fit Joggers - Series 3,Clothing,Northline,17.91,"Made for everyday versatility, this comfort fit joggers - series 3 offers a comfortable fit and an easy-to-style look.",4.1
+P0246,The Complete Guide to Astronomy - Series 4,Books,KnowledgeHouse,62.13,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.8
+P0247,Textured Knit Sweater - Series 3,Clothing,CottonLane,44.16,A wardrobe essential designed to work across casual outings and everyday occasions.,5.0
+P0248,Classic Leather Sling Bag - Series 4,Accessories,UrbanCraft,54.45,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.7
+P0249,Hydrating Face Serum - Series 4,Beauty,GlowTheory,40.39,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.1
+P0250,Minimalist Travel Wallet - Series 4,Accessories,CarryCulture,31.52,A useful everyday companion combining a clean design with convenient functionality.,3.5
+P0251,Smart LED Desk Lamp - Series 3,Electronics,PixelWorks,25.06,A versatile technology essential featuring a compact design and useful features for daily routines.,4.6
+P0252,Portable SSD Drive - Series 3,Electronics,Auralink,42.9,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.0
+P0253,Everyday Linen Shirt - Series 3,Clothing,ModeCraft,87.0,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.8
+P0254,Sports Gym Duffel Bag - Series 3,Sports,StrideWorks,41.06,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.6
+P0255,Colorful Stacking Rings - Series 4,Toys,PlayOrbit,40.41,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.1
+P0256,Mini Construction Vehicle Set - Series 4,Toys,WonderWorks,159.69,Encourage curiosity and creative play with this engaging activity for young learners.,3.3
+P0257,Educational Number Puzzle - Series 4,Toys,LittleGenius,15.57,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.5
+P0258,Daily Repair Shampoo - Series 4,Beauty,PureBloom,49.78,"Made for everyday beauty routines, with a practical format for regular personal care.",3.8
+P0259,Classic Oxford Shirt - Series 4,Clothing,ThreadTheory,97.87,"Made for everyday versatility, this classic oxford shirt - series 4 offers a comfortable fit and an easy-to-style look.",4.6
+P0260,Stories from Around the World - Series 4,Books,Inkstone,117.47,Discover an engaging learning experience through this carefully titled publication.,4.5
+P0261,Everyday Canvas Backpack - Series 4,Accessories,Forma,41.2,"Designed to complement daily outfits and routines with a simple, versatile look.",3.4
+P0262,Magnetic Building Tiles - Series 4,Toys,BrightMinds,55.53,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.4
+P0263,Animal Discovery Play Set - Series 4,Toys,FunFoundry,32.43,Encourage curiosity and creative play with this engaging activity for young learners.,4.4
+P0264,Wireless Bluetooth Earbuds - Series 4,Electronics,NovaTech,44.05,"Designed for convenient everyday use, this wireless bluetooth earbuds - series 4 combines practical functionality with a clean, modern design.",3.4
+P0265,Gentle Foaming Face Wash - Series 4,Beauty,DermaNest,50.82,A thoughtfully presented beauty essential for a simple and convenient daily routine.,2.9
+P0266,Creative Building Blocks - Series 5,Toys,PlayOrbit,24.26,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.2
+P0267,FlexRun Training Shoes - Series 4,Sports,MotionLab,39.53,Support your active routine with practical design suited to training and everyday movement.,4.8
+P0268,Stainless Steel Wristwatch - Series 4,Accessories,EverydayEdit,14.75,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.8
+P0269,Portable Bluetooth Speaker - Series 4,Electronics,Soundora,37.81,A versatile technology essential featuring a compact design and useful features for daily routines.,3.0
+P0270,Compact Card Holder - Series 4,Accessories,NomadWorks,28.92,A useful everyday companion combining a clean design with convenient functionality.,3.1
+P0271,Relaxed Fit Cotton Hoodie - Series 4,Clothing,UrbanWeave,65.4,A wardrobe essential designed to work across casual outings and everyday occasions.,3.3
+P0272,Nourishing Body Lotion - Series 4,Beauty,SkinKind,22.76,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.2
+P0273,Vitamin C Brightening Cream - Series 4,Beauty,BotaniCare,103.21,"Made for everyday beauty routines, with a practical format for regular personal care.",4.6
+P0274,Soft Cotton Bedsheet Set - Series 3,Home,NordNest,28.59,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.1
+P0275,Everyday Casual T-Shirt - Series 4,Clothing,Northline,237.42,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0276,Smart Fitness Watch - Series 4,Electronics,VoltEdge,26.44,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.8
+P0277,Moisture Repair Hair Mask - Series 4,Beauty,GlowTheory,27.15,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.7
+P0278,Adjustable Resistance Bands - Series 4,Sports,FlexFit,22.84,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.7
+P0279,Professional Yoga Mat - Series 4,Sports,PeakMotion,14.6,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.9
+P0280,Noise Cancelling Headphones - Series 4,Electronics,PixelWorks,16.08,"Designed for convenient everyday use, this noise cancelling headphones - series 4 combines practical functionality with a clean, modern design.",4.2
+P0281,Contemporary Wall Shelf - Series 3,Home,HomeTheory,37.64,Designed to complement your interiors while adding convenience to your daily routine.,4.4
+P0282,Lightweight Running Shorts - Series 4,Sports,ActiveCore,20.75,Support your active routine with practical design suited to training and everyday movement.,4.3
+P0283,Ceramic Table Lamp - Series 4,Home,CasaLiving,59.87,Bring practical style to your space with this thoughtfully designed home essential.,3.5
+P0284,Daily Sunscreen Lotion - Series 4,Beauty,PureBloom,20.54,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.1
+P0285,Compact Power Bank - Series 4,Electronics,Auralink,28.34,A versatile technology essential featuring a compact design and useful features for daily routines.,3.0
+P0286,Mechanical Gaming Keyboard - Series 4,Electronics,NovaTech,258.23,Bring convenience to your setup with this thoughtfully designed electronic accessory.,2.9
+P0287,Modular Storage Organizer - Series 4,Home,OakAndStone,56.06,"A functional home accessory with a contemporary look, suited to modern everyday living.",5.0
+P0288,Premium Laptop Sleeve - Series 4,Accessories,UrbanCraft,12.45,"Designed to complement daily outfits and routines with a simple, versatile look.",4.4
+P0289,Refreshing Facial Toner - Series 4,Beauty,DermaNest,11.09,"Made for everyday beauty routines, with a practical format for regular personal care.",3.6
+P0290,Classic Aviator Sunglasses - Series 4,Accessories,CarryCulture,48.04,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",2.9
+P0291,Wireless Optical Mouse - Series 4,Electronics,Soundora,20.51,"Designed for convenient everyday use, this wireless optical mouse - series 4 combines practical functionality with a clean, modern design.",3.1
+P0292,Overnight Skin Repair Cream - Series 4,Beauty,SkinKind,81.7,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.2
+P0293,Stainless Steel Sports Bottle - Series 4,Sports,StrideWorks,24.72,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.4
+P0294,Slim Fit Denim Jeans - Series 4,Clothing,CottonLane,72.67,"Made for everyday versatility, this slim fit denim jeans - series 4 offers a comfortable fit and an easy-to-style look.",3.6
+P0295,HD Webcam - Series 4,Electronics,VoltEdge,44.65,A versatile technology essential featuring a compact design and useful features for daily routines.,3.9
+P0296,Smart LED Desk Lamp - Series 4,Electronics,PixelWorks,135.91,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.7
+P0297,Natural Lip Care Balm - Series 4,Beauty,BotaniCare,36.06,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.0
+P0298,Compact Fitness Dumbbells - Series 4,Sports,MotionLab,67.74,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.0
+P0299,Minimalist Wall Clock - Series 4,Home,HavenWorks,55.13,Designed to complement your interiors while adding convenience to your daily routine.,4.8
+P0300,Principles of Creative Thinking - Series 4,Books,OpenChapter,42.05,Explore key ideas and engaging perspectives in this thoughtfully presented book.,2.9
+P0301,Outdoor Cycling Gloves - Series 4,Sports,FlexFit,89.95,Support your active routine with practical design suited to training and everyday movement.,4.5
+P0302,Junior Science Discovery Kit - Series 5,Toys,WonderWorks,22.33,"A playful addition to a child's collection, combining discovery and hands-on activity.",2.8
+P0303,Performance Training T-Shirt - Series 4,Sports,PeakMotion,75.69,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.5
+P0304,Exercise Jump Rope - Series 4,Sports,ActiveCore,20.46,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.2
+P0305,Hydrating Face Serum - Series 5,Beauty,GlowTheory,300.01,"Made for everyday beauty routines, with a practical format for regular personal care.",3.9
+P0306,Sports Gym Duffel Bag - Series 4,Sports,StrideWorks,60.95,Support your active routine with practical design suited to training and everyday movement.,3.4
+P0307,FlexRun Training Shoes - Series 5,Sports,MotionLab,20.97,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.8
+P0308,Adjustable Resistance Bands - Series 5,Sports,FlexFit,67.79,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.6
+P0309,Cotton Cushion Cover Set - Series 4,Home,NordNest,77.27,Bring practical style to your space with this thoughtfully designed home essential.,3.4
+P0310,Adjustable Leather Belt - Series 4,Accessories,Forma,13.15,A useful everyday companion combining a clean design with convenient functionality.,3.5
+P0311,Modern Kitchen Container Set - Series 4,Home,HomeTheory,19.38,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.0
+P0312,Wooden Puzzle Adventure - Series 5,Toys,LittleGenius,21.84,Encourage curiosity and creative play with this engaging activity for young learners.,4.5
+P0313,Creative Art and Craft Set - Series 5,Toys,BrightMinds,15.24,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.2
+P0314,Interactive Learning Board - Series 5,Toys,FunFoundry,96.8,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.0
+P0315,Wooden Serving Tray - Series 4,Home,CasaLiving,57.96,Designed to complement your interiors while adding convenience to your daily routine.,3.4
+P0316,Portable SSD Drive - Series 4,Electronics,Auralink,38.62,"Designed for convenient everyday use, this portable ssd drive - series 4 combines practical functionality with a clean, modern design.",3.7
+P0317,Lightweight Summer Jacket - Series 4,Clothing,ModeCraft,15.06,A wardrobe essential designed to work across casual outings and everyday occasions.,4.1
+P0318,Wireless Bluetooth Earbuds - Series 5,Electronics,NovaTech,43.12,A versatile technology essential featuring a compact design and useful features for daily routines.,3.9
+P0319,Professional Yoga Mat - Series 5,Sports,PeakMotion,20.37,Support your active routine with practical design suited to training and everyday movement.,3.4
+P0320,Foundations of Modern Science - Series 5,Books,PageTurner,13.6,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",2.9
+P0321,Compact Desk Organizer - Series 4,Home,OakAndStone,28.12,Bring practical style to your space with this thoughtfully designed home essential.,4.0
+P0322,Portable Bluetooth Speaker - Series 5,Electronics,Soundora,17.05,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.0
+P0323,Formal Office Trousers - Series 4,Clothing,ThreadTheory,58.2,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.4
+P0324,The Art of Deep Learning - Series 5,Books,BrightLeaf,46.5,Discover an engaging learning experience through this carefully titled publication.,4.7
+P0325,Daily Repair Shampoo - Series 5,Beauty,PureBloom,30.64,A thoughtfully presented beauty essential for a simple and convenient daily routine.,2.9
+P0326,Travel Organizer Pouch - Series 4,Accessories,EverydayEdit,31.4,"Designed to complement daily outfits and routines with a simple, versatile look.",4.7
+P0327,Lightweight Running Shorts - Series 5,Sports,ActiveCore,28.0,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.1
+P0328,Smart Fitness Watch - Series 5,Electronics,VoltEdge,21.89,"Designed for convenient everyday use, this smart fitness watch - series 5 combines practical functionality with a clean, modern design.",4.1
+P0329,Gentle Foaming Face Wash - Series 5,Beauty,DermaNest,9.61,A daily personal-care essential designed to fit conveniently into your self-care routine.,2.9
+P0330,Stainless Steel Sports Bottle - Series 5,Sports,StrideWorks,29.97,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.9
+P0331,Cotton Polo Shirt - Series 4,Clothing,UrbanWeave,23.21,"Made for everyday versatility, this cotton polo shirt - series 4 offers a comfortable fit and an easy-to-style look.",4.1
+P0332,A Beginner's Guide to History - Series 5,Books,KnowledgeHouse,18.7,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.2
+P0333,Comfort Fit Joggers - Series 4,Clothing,Northline,26.12,A wardrobe essential designed to work across casual outings and everyday occasions.,4.7
+P0334,Colorful Stacking Rings - Series 5,Toys,PlayOrbit,45.32,Encourage curiosity and creative play with this engaging activity for young learners.,4.8
+P0335,Noise Cancelling Headphones - Series 5,Electronics,PixelWorks,410.09,A versatile technology essential featuring a compact design and useful features for daily routines.,4.8
+P0336,Mini Construction Vehicle Set - Series 5,Toys,WonderWorks,28.99,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.9
+P0337,Textured Knit Sweater - Series 4,Clothing,CottonLane,91.43,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.9
+P0338,The Mystery of the Lost Archive - Series 5,Books,Inkstone,72.27,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.0
+P0339,Compact Power Bank - Series 5,Electronics,Auralink,80.04,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.0
+P0340,Compact Fitness Dumbbells - Series 5,Sports,MotionLab,33.25,Support your active routine with practical design suited to training and everyday movement.,3.4
+P0341,Educational Number Puzzle - Series 5,Toys,LittleGenius,42.19,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.9
+P0342,Learning Python Step by Step - Series 5,Books,OpenChapter,11.93,Discover an engaging learning experience through this carefully titled publication.,4.5
+P0343,Outdoor Cycling Gloves - Series 5,Sports,FlexFit,13.45,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.2
+P0344,The Psychology of Everyday Life - Series 5,Books,PageTurner,20.33,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.7
+P0345,Minimalist Keychain Set - Series 4,Accessories,NomadWorks,31.22,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",5.0
+P0346,Introduction to Data Science - Series 5,Books,BrightLeaf,18.83,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.5
+P0347,Performance Training T-Shirt - Series 5,Sports,PeakMotion,20.16,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",2.9
+P0348,Mechanical Gaming Keyboard - Series 5,Electronics,NovaTech,50.77,"Designed for convenient everyday use, this mechanical gaming keyboard - series 5 combines practical functionality with a clean, modern design.",4.5
+P0349,Decorative Table Vase - Series 4,Home,HavenWorks,26.1,"A functional home accessory with a contemporary look, suited to modern everyday living.",2.8
+P0350,Wireless Optical Mouse - Series 5,Electronics,Soundora,19.61,A versatile technology essential featuring a compact design and useful features for daily routines.,4.8
+P0351,Everyday Linen Shirt - Series 4,Clothing,ModeCraft,24.49,"Made for everyday versatility, this everyday linen shirt - series 4 offers a comfortable fit and an easy-to-style look.",2.8
+P0352,HD Webcam - Series 5,Electronics,VoltEdge,12.66,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.5
+P0353,Exercise Jump Rope - Series 5,Sports,ActiveCore,18.44,Support your active routine with practical design suited to training and everyday movement.,4.0
+P0354,Classic Oxford Shirt - Series 5,Clothing,ThreadTheory,10.04,A wardrobe essential designed to work across casual outings and everyday occasions.,4.8
+P0355,Smart LED Desk Lamp - Series 5,Electronics,PixelWorks,89.02,"Designed for convenient everyday use, this smart led desk lamp - series 5 combines practical functionality with a clean, modern design.",4.6
+P0356,Classic Leather Sling Bag - Series 5,Accessories,UrbanCraft,30.72,A useful everyday companion combining a clean design with convenient functionality.,4.4
+P0357,Portable SSD Drive - Series 5,Electronics,Auralink,39.24,A versatile technology essential featuring a compact design and useful features for daily routines.,4.7
+P0358,Magnetic Building Tiles - Series 5,Toys,BrightMinds,17.65,Encourage curiosity and creative play with this engaging activity for young learners.,4.5
+P0359,Relaxed Fit Cotton Hoodie - Series 5,Clothing,UrbanWeave,101.63,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.8
+P0360,Wireless Bluetooth Earbuds - Series 6,Electronics,NovaTech,333.9,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.6
+P0361,The Complete Guide to Astronomy - Series 5,Books,KnowledgeHouse,73.29,Discover an engaging learning experience through this carefully titled publication.,5.0
+P0362,Stories from Around the World - Series 5,Books,Inkstone,15.5,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.2
+P0363,Portable Bluetooth Speaker - Series 6,Electronics,Soundora,171.36,"Designed for convenient everyday use, this portable bluetooth speaker - series 6 combines practical functionality with a clean, modern design.",3.0
+P0364,Principles of Creative Thinking - Series 5,Books,OpenChapter,92.71,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.1
+P0365,Nourishing Body Lotion - Series 5,Beauty,SkinKind,39.32,"Made for everyday beauty routines, with a practical format for regular personal care.",3.8
+P0366,Soft Cotton Bedsheet Set - Series 4,Home,NordNest,121.07,Designed to complement your interiors while adding convenience to your daily routine.,4.1
+P0367,Sports Gym Duffel Bag - Series 5,Sports,StrideWorks,72.18,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.7
+P0368,Contemporary Wall Shelf - Series 4,Home,HomeTheory,58.47,Bring practical style to your space with this thoughtfully designed home essential.,5.0
+P0369,Minimalist Travel Wallet - Series 5,Accessories,CarryCulture,81.64,"Designed to complement daily outfits and routines with a simple, versatile look.",3.6
+P0370,Foundations of Modern Science - Series 6,Books,PageTurner,15.15,Discover an engaging learning experience through this carefully titled publication.,4.8
+P0371,Everyday Canvas Backpack - Series 5,Accessories,Forma,41.01,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.8
+P0372,Ceramic Table Lamp - Series 5,Home,CasaLiving,77.93,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.9
+P0373,Smart Fitness Watch - Series 6,Electronics,VoltEdge,33.85,A versatile technology essential featuring a compact design and useful features for daily routines.,3.5
+P0374,Vitamin C Brightening Cream - Series 5,Beauty,BotaniCare,119.18,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.4
+P0375,Modular Storage Organizer - Series 5,Home,OakAndStone,63.18,Designed to complement your interiors while adding convenience to your daily routine.,3.7
+P0376,Moisture Repair Hair Mask - Series 5,Beauty,GlowTheory,45.66,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.9
+P0377,Animal Discovery Play Set - Series 5,Toys,FunFoundry,18.59,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.6
+P0378,FlexRun Training Shoes - Series 6,Sports,MotionLab,52.86,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.8
+P0379,Everyday Casual T-Shirt - Series 5,Clothing,Northline,66.2,"Made for everyday versatility, this everyday casual t-shirt - series 5 offers a comfortable fit and an easy-to-style look.",4.9
+P0380,Slim Fit Denim Jeans - Series 5,Clothing,CottonLane,20.28,A wardrobe essential designed to work across casual outings and everyday occasions.,3.3
+P0381,Stainless Steel Wristwatch - Series 5,Accessories,EverydayEdit,37.18,A useful everyday companion combining a clean design with convenient functionality.,4.1
+P0382,Lightweight Summer Jacket - Series 5,Clothing,ModeCraft,57.6,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.9
+P0383,Formal Office Trousers - Series 5,Clothing,ThreadTheory,21.96,"Made for everyday versatility, this formal office trousers - series 5 offers a comfortable fit and an easy-to-style look.",4.3
+P0384,Adjustable Resistance Bands - Series 6,Sports,FlexFit,33.12,Support your active routine with practical design suited to training and everyday movement.,3.2
+P0385,Daily Sunscreen Lotion - Series 5,Beauty,PureBloom,61.95,"Made for everyday beauty routines, with a practical format for regular personal care.",4.1
+P0386,Creative Building Blocks - Series 6,Toys,PlayOrbit,81.06,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.0
+P0387,Refreshing Facial Toner - Series 5,Beauty,DermaNest,21.76,A thoughtfully presented beauty essential for a simple and convenient daily routine.,2.9
+P0388,Junior Science Discovery Kit - Series 6,Toys,WonderWorks,113.97,Encourage curiosity and creative play with this engaging activity for young learners.,4.7
+P0389,Wooden Puzzle Adventure - Series 6,Toys,LittleGenius,76.57,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.5
+P0390,Professional Yoga Mat - Series 6,Sports,PeakMotion,39.1,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,2.9
+P0391,Cotton Polo Shirt - Series 5,Clothing,UrbanWeave,61.45,A wardrobe essential designed to work across casual outings and everyday occasions.,3.3
+P0392,Lightweight Running Shorts - Series 6,Sports,ActiveCore,38.62,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.1
+P0393,Noise Cancelling Headphones - Series 6,Electronics,PixelWorks,22.2,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.5
+P0394,Compact Card Holder - Series 5,Accessories,NomadWorks,56.61,"Designed to complement daily outfits and routines with a simple, versatile look.",2.9
+P0395,Stainless Steel Sports Bottle - Series 6,Sports,StrideWorks,10.68,Support your active routine with practical design suited to training and everyday movement.,3.2
+P0396,Minimalist Wall Clock - Series 5,Home,HavenWorks,120.74,Bring practical style to your space with this thoughtfully designed home essential.,3.6
+P0397,Cotton Cushion Cover Set - Series 5,Home,NordNest,72.96,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.5
+P0398,Compact Fitness Dumbbells - Series 6,Sports,MotionLab,28.57,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.7
+P0399,Modern Kitchen Container Set - Series 5,Home,HomeTheory,98.86,Designed to complement your interiors while adding convenience to your daily routine.,2.9
+P0400,Premium Laptop Sleeve - Series 5,Accessories,UrbanCraft,25.26,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.4
+P0401,Outdoor Cycling Gloves - Series 6,Sports,FlexFit,41.88,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.7
+P0402,Comfort Fit Joggers - Series 5,Clothing,Northline,98.79,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.8
+P0403,Wooden Serving Tray - Series 5,Home,CasaLiving,33.19,Bring practical style to your space with this thoughtfully designed home essential.,4.6
+P0404,Overnight Skin Repair Cream - Series 5,Beauty,SkinKind,140.97,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.5
+P0405,Classic Aviator Sunglasses - Series 5,Accessories,CarryCulture,117.6,A useful everyday companion combining a clean design with convenient functionality.,3.2
+P0406,Performance Training T-Shirt - Series 6,Sports,PeakMotion,49.03,Support your active routine with practical design suited to training and everyday movement.,3.8
+P0407,Adjustable Leather Belt - Series 5,Accessories,Forma,33.97,"Designed to complement daily outfits and routines with a simple, versatile look.",3.0
+P0408,The Art of Deep Learning - Series 6,Books,BrightLeaf,54.7,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.2
+P0409,Travel Organizer Pouch - Series 5,Accessories,EverydayEdit,40.74,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.8
+P0410,Exercise Jump Rope - Series 6,Sports,ActiveCore,60.04,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.2
+P0411,Creative Art and Craft Set - Series 6,Toys,BrightMinds,18.44,"A playful addition to a child's collection, combining discovery and hands-on activity.",2.9
+P0412,Compact Power Bank - Series 6,Electronics,Auralink,61.63,"Designed for convenient everyday use, this compact power bank - series 6 combines practical functionality with a clean, modern design.",4.2
+P0413,Compact Desk Organizer - Series 5,Home,OakAndStone,16.29,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.5
+P0414,Mechanical Gaming Keyboard - Series 6,Electronics,NovaTech,37.93,A versatile technology essential featuring a compact design and useful features for daily routines.,4.9
+P0415,Wireless Optical Mouse - Series 6,Electronics,Soundora,23.94,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.0
+P0416,Decorative Table Vase - Series 5,Home,HavenWorks,20.73,Designed to complement your interiors while adding convenience to your daily routine.,4.3
+P0417,Textured Knit Sweater - Series 5,Clothing,CottonLane,35.38,"Made for everyday versatility, this textured knit sweater - series 5 offers a comfortable fit and an easy-to-style look.",4.0
+P0418,Minimalist Keychain Set - Series 5,Accessories,NomadWorks,66.76,A useful everyday companion combining a clean design with convenient functionality.,3.4
+P0419,Everyday Linen Shirt - Series 5,Clothing,ModeCraft,72.01,A wardrobe essential designed to work across casual outings and everyday occasions.,2.8
+P0420,Natural Lip Care Balm - Series 5,Beauty,BotaniCare,68.19,"Made for everyday beauty routines, with a practical format for regular personal care.",4.6
+P0421,HD Webcam - Series 6,Electronics,VoltEdge,48.01,"Designed for convenient everyday use, this hd webcam - series 6 combines practical functionality with a clean, modern design.",3.7
+P0422,Classic Oxford Shirt - Series 6,Clothing,ThreadTheory,68.44,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.7
+P0423,Relaxed Fit Cotton Hoodie - Series 6,Clothing,UrbanWeave,28.05,"Made for everyday versatility, this relaxed fit cotton hoodie - series 6 offers a comfortable fit and an easy-to-style look.",4.4
+P0424,Interactive Learning Board - Series 6,Toys,FunFoundry,22.91,Encourage curiosity and creative play with this engaging activity for young learners.,4.2
+P0425,Hydrating Face Serum - Series 6,Beauty,GlowTheory,11.59,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.4
+P0426,Colorful Stacking Rings - Series 6,Toys,PlayOrbit,25.18,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0427,A Beginner's Guide to History - Series 6,Books,KnowledgeHouse,34.84,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.4
+P0428,Sports Gym Duffel Bag - Series 6,Sports,StrideWorks,71.49,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.4
+P0429,Smart LED Desk Lamp - Series 6,Electronics,PixelWorks,80.93,A versatile technology essential featuring a compact design and useful features for daily routines.,4.6
+P0430,Soft Cotton Bedsheet Set - Series 5,Home,NordNest,14.76,Bring practical style to your space with this thoughtfully designed home essential.,2.9
+P0431,Everyday Casual T-Shirt - Series 6,Clothing,Northline,20.49,A wardrobe essential designed to work across casual outings and everyday occasions.,4.0
+P0432,Mini Construction Vehicle Set - Series 6,Toys,WonderWorks,10.08,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.2
+P0433,Contemporary Wall Shelf - Series 5,Home,HomeTheory,31.59,"A functional home accessory with a contemporary look, suited to modern everyday living.",2.8
+P0434,Portable SSD Drive - Series 6,Electronics,Auralink,129.22,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.8
+P0435,Daily Repair Shampoo - Series 6,Beauty,PureBloom,64.4,A daily personal-care essential designed to fit conveniently into your self-care routine.,5.0
+P0436,The Mystery of the Lost Archive - Series 6,Books,Inkstone,31.84,Discover an engaging learning experience through this carefully titled publication.,4.3
+P0437,Slim Fit Denim Jeans - Series 6,Clothing,CottonLane,5.65,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.5
+P0438,Educational Number Puzzle - Series 6,Toys,LittleGenius,49.43,Encourage curiosity and creative play with this engaging activity for young learners.,4.6
+P0439,Ceramic Table Lamp - Series 6,Home,CasaLiving,29.43,Designed to complement your interiors while adding convenience to your daily routine.,4.6
+P0440,Modular Storage Organizer - Series 6,Home,OakAndStone,32.29,Bring practical style to your space with this thoughtfully designed home essential.,3.8
+P0441,Classic Leather Sling Bag - Series 6,Accessories,UrbanCraft,31.6,"Designed to complement daily outfits and routines with a simple, versatile look.",3.9
+P0442,Gentle Foaming Face Wash - Series 6,Beauty,DermaNest,17.39,"Made for everyday beauty routines, with a practical format for regular personal care.",4.7
+P0443,FlexRun Training Shoes - Series 7,Sports,MotionLab,118.31,Support your active routine with practical design suited to training and everyday movement.,4.0
+P0444,Magnetic Building Tiles - Series 6,Toys,BrightMinds,35.62,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.1
+P0445,Minimalist Travel Wallet - Series 6,Accessories,CarryCulture,43.14,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.6
+P0446,Animal Discovery Play Set - Series 6,Toys,FunFoundry,22.02,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.2
+P0447,Wireless Bluetooth Earbuds - Series 7,Electronics,NovaTech,43.32,"Designed for convenient everyday use, this wireless bluetooth earbuds - series 7 combines practical functionality with a clean, modern design.",3.3
+P0448,Learning Python Step by Step - Series 6,Books,OpenChapter,54.39,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.9
+P0449,Everyday Canvas Backpack - Series 6,Accessories,Forma,11.17,A useful everyday companion combining a clean design with convenient functionality.,5.0
+P0450,Stainless Steel Wristwatch - Series 6,Accessories,EverydayEdit,61.69,"Designed to complement daily outfits and routines with a simple, versatile look.",3.1
+P0451,Adjustable Resistance Bands - Series 7,Sports,FlexFit,15.5,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.9
+P0452,Nourishing Body Lotion - Series 6,Beauty,SkinKind,15.24,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.1
+P0453,Professional Yoga Mat - Series 7,Sports,PeakMotion,102.19,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",2.9
+P0454,Minimalist Wall Clock - Series 6,Home,HavenWorks,33.23,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.8
+P0455,The Psychology of Everyday Life - Series 6,Books,PageTurner,18.32,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.3
+P0456,Compact Card Holder - Series 6,Accessories,NomadWorks,25.09,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.7
+P0457,Cotton Cushion Cover Set - Series 6,Home,NordNest,34.01,Designed to complement your interiors while adding convenience to your daily routine.,3.0
+P0458,Portable Bluetooth Speaker - Series 7,Electronics,Soundora,18.53,A versatile technology essential featuring a compact design and useful features for daily routines.,3.6
+P0459,Premium Laptop Sleeve - Series 6,Accessories,UrbanCraft,15.02,A useful everyday companion combining a clean design with convenient functionality.,3.9
+P0460,Lightweight Running Shorts - Series 7,Sports,ActiveCore,47.75,Support your active routine with practical design suited to training and everyday movement.,3.2
+P0461,Stainless Steel Sports Bottle - Series 7,Sports,StrideWorks,66.64,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.4
+P0462,Vitamin C Brightening Cream - Series 6,Beauty,BotaniCare,13.8,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.2
+P0463,Compact Fitness Dumbbells - Series 7,Sports,MotionLab,92.24,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.2
+P0464,Smart Fitness Watch - Series 7,Electronics,VoltEdge,42.57,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.6
+P0465,Introduction to Data Science - Series 6,Books,BrightLeaf,46.91,Discover an engaging learning experience through this carefully titled publication.,3.5
+P0466,The Complete Guide to Astronomy - Series 6,Books,KnowledgeHouse,9.23,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.5
+P0467,Classic Aviator Sunglasses - Series 6,Accessories,CarryCulture,38.49,"Designed to complement daily outfits and routines with a simple, versatile look.",3.3
+P0468,Modern Kitchen Container Set - Series 6,Home,HomeTheory,22.88,Bring practical style to your space with this thoughtfully designed home essential.,4.3
+P0469,Creative Building Blocks - Series 7,Toys,PlayOrbit,110.52,Encourage curiosity and creative play with this engaging activity for young learners.,3.4
+P0470,Moisture Repair Hair Mask - Series 6,Beauty,GlowTheory,19.18,"Made for everyday beauty routines, with a practical format for regular personal care.",4.3
+P0471,Noise Cancelling Headphones - Series 7,Electronics,PixelWorks,47.68,"Designed for convenient everyday use, this noise cancelling headphones - series 7 combines practical functionality with a clean, modern design.",3.4
+P0472,Adjustable Leather Belt - Series 6,Accessories,Forma,51.14,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.2
+P0473,Lightweight Summer Jacket - Series 6,Clothing,ModeCraft,33.39,"Made for everyday versatility, this lightweight summer jacket - series 6 offers a comfortable fit and an easy-to-style look.",4.2
+P0474,Wooden Serving Tray - Series 6,Home,CasaLiving,17.41,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.4
+P0475,Formal Office Trousers - Series 6,Clothing,ThreadTheory,18.62,A wardrobe essential designed to work across casual outings and everyday occasions.,4.0
+P0476,Compact Power Bank - Series 7,Electronics,Auralink,86.38,A versatile technology essential featuring a compact design and useful features for daily routines.,4.5
+P0477,Cotton Polo Shirt - Series 6,Clothing,UrbanWeave,79.16,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.1
+P0478,Travel Organizer Pouch - Series 6,Accessories,EverydayEdit,31.86,A useful everyday companion combining a clean design with convenient functionality.,4.2
+P0479,Junior Science Discovery Kit - Series 7,Toys,WonderWorks,49.03,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.4
+P0480,Mechanical Gaming Keyboard - Series 7,Electronics,NovaTech,125.4,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.6
+P0481,Stories from Around the World - Series 6,Books,Inkstone,53.06,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.1
+P0482,Principles of Creative Thinking - Series 6,Books,OpenChapter,24.96,Discover an engaging learning experience through this carefully titled publication.,4.6
+P0483,Daily Sunscreen Lotion - Series 6,Beauty,PureBloom,28.61,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.9
+P0484,Wireless Optical Mouse - Series 7,Electronics,Soundora,210.43,"Designed for convenient everyday use, this wireless optical mouse - series 7 combines practical functionality with a clean, modern design.",4.2
+P0485,Outdoor Cycling Gloves - Series 7,Sports,FlexFit,36.11,Support your active routine with practical design suited to training and everyday movement.,3.9
+P0486,Minimalist Keychain Set - Series 6,Accessories,NomadWorks,35.73,"Designed to complement daily outfits and routines with a simple, versatile look.",4.0
+P0487,Wooden Puzzle Adventure - Series 7,Toys,LittleGenius,37.55,"A playful addition to a child's collection, combining discovery and hands-on activity.",2.9
+P0488,HD Webcam - Series 7,Electronics,VoltEdge,77.43,A versatile technology essential featuring a compact design and useful features for daily routines.,3.8
+P0489,Comfort Fit Joggers - Series 6,Clothing,Northline,89.8,"Made for everyday versatility, this comfort fit joggers - series 6 offers a comfortable fit and an easy-to-style look.",3.8
+P0490,Smart LED Desk Lamp - Series 7,Electronics,PixelWorks,21.8,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.7
+P0491,Compact Desk Organizer - Series 6,Home,OakAndStone,35.95,Designed to complement your interiors while adding convenience to your daily routine.,4.0
+P0492,Foundations of Modern Science - Series 7,Books,PageTurner,5.7,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.4
+P0493,Refreshing Facial Toner - Series 6,Beauty,DermaNest,77.13,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.2
+P0494,The Art of Deep Learning - Series 7,Books,BrightLeaf,21.9,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.9
+P0495,Overnight Skin Repair Cream - Series 6,Beauty,SkinKind,42.36,"Made for everyday beauty routines, with a practical format for regular personal care.",3.0
+P0496,A Beginner's Guide to History - Series 7,Books,KnowledgeHouse,61.12,Discover an engaging learning experience through this carefully titled publication.,4.6
+P0497,The Mystery of the Lost Archive - Series 7,Books,Inkstone,45.98,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.2
+P0498,Learning Python Step by Step - Series 7,Books,OpenChapter,6.59,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.2
+P0499,Portable SSD Drive - Series 7,Electronics,Auralink,61.49,"Designed for convenient everyday use, this portable ssd drive - series 7 combines practical functionality with a clean, modern design.",3.8
+P0500,Creative Art and Craft Set - Series 7,Toys,BrightMinds,94.18,Encourage curiosity and creative play with this engaging activity for young learners.,3.0
+P0501,Decorative Table Vase - Series 6,Home,HavenWorks,70.07,Bring practical style to your space with this thoughtfully designed home essential.,4.9
+P0502,Wireless Bluetooth Earbuds - Series 8,Electronics,NovaTech,86.28,A versatile technology essential featuring a compact design and useful features for daily routines.,3.1
+P0503,Portable Bluetooth Speaker - Series 8,Electronics,Soundora,22.76,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.0
+P0504,The Psychology of Everyday Life - Series 7,Books,PageTurner,114.11,Discover an engaging learning experience through this carefully titled publication.,4.5
+P0505,Natural Lip Care Balm - Series 6,Beauty,BotaniCare,539.44,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.2
+P0506,Performance Training T-Shirt - Series 7,Sports,PeakMotion,43.41,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.4
+P0507,Interactive Learning Board - Series 7,Toys,FunFoundry,120.41,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.6
+P0508,Introduction to Data Science - Series 7,Books,BrightLeaf,53.03,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.7
+P0509,Textured Knit Sweater - Series 6,Clothing,CottonLane,14.94,A wardrobe essential designed to work across casual outings and everyday occasions.,3.4
+P0510,The Complete Guide to Astronomy - Series 7,Books,KnowledgeHouse,17.23,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.3
+P0511,Smart Fitness Watch - Series 8,Electronics,VoltEdge,63.77,"Designed for convenient everyday use, this smart fitness watch - series 8 combines practical functionality with a clean, modern design.",4.5
+P0512,Everyday Linen Shirt - Series 6,Clothing,ModeCraft,18.12,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.3
+P0513,Noise Cancelling Headphones - Series 8,Electronics,PixelWorks,22.44,A versatile technology essential featuring a compact design and useful features for daily routines.,4.3
+P0514,Classic Oxford Shirt - Series 7,Clothing,ThreadTheory,39.58,"Made for everyday versatility, this classic oxford shirt - series 7 offers a comfortable fit and an easy-to-style look.",4.8
+P0515,Colorful Stacking Rings - Series 7,Toys,PlayOrbit,198.59,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.1
+P0516,Compact Power Bank - Series 8,Electronics,Auralink,105.44,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.6
+P0517,Relaxed Fit Cotton Hoodie - Series 7,Clothing,UrbanWeave,51.35,A wardrobe essential designed to work across casual outings and everyday occasions.,4.3
+P0518,Soft Cotton Bedsheet Set - Series 6,Home,NordNest,114.68,"A functional home accessory with a contemporary look, suited to modern everyday living.",2.8
+P0519,Hydrating Face Serum - Series 7,Beauty,GlowTheory,31.26,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.2
+P0520,Mechanical Gaming Keyboard - Series 8,Electronics,NovaTech,36.96,"Designed for convenient everyday use, this mechanical gaming keyboard - series 8 combines practical functionality with a clean, modern design.",4.2
+P0521,Everyday Casual T-Shirt - Series 7,Clothing,Northline,30.27,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.6
+P0522,Exercise Jump Rope - Series 7,Sports,ActiveCore,24.12,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.0
+P0523,Sports Gym Duffel Bag - Series 7,Sports,StrideWorks,79.73,Support your active routine with practical design suited to training and everyday movement.,3.0
+P0524,Contemporary Wall Shelf - Series 6,Home,HomeTheory,101.7,Designed to complement your interiors while adding convenience to your daily routine.,3.0
+P0525,FlexRun Training Shoes - Series 8,Sports,MotionLab,65.4,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.1
+P0526,Classic Leather Sling Bag - Series 7,Accessories,UrbanCraft,18.42,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.9
+P0527,Daily Repair Shampoo - Series 7,Beauty,PureBloom,58.89,"Made for everyday beauty routines, with a practical format for regular personal care.",3.2
+P0528,Adjustable Resistance Bands - Series 8,Sports,FlexFit,58.08,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.3
+P0529,Slim Fit Denim Jeans - Series 7,Clothing,CottonLane,93.52,"Made for everyday versatility, this slim fit denim jeans - series 7 offers a comfortable fit and an easy-to-style look.",3.3
+P0530,Wireless Optical Mouse - Series 8,Electronics,Soundora,28.5,A versatile technology essential featuring a compact design and useful features for daily routines.,3.8
+P0531,Stories from Around the World - Series 7,Books,Inkstone,52.3,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0532,Ceramic Table Lamp - Series 7,Home,CasaLiving,54.38,Bring practical style to your space with this thoughtfully designed home essential.,4.4
+P0533,Gentle Foaming Face Wash - Series 7,Beauty,DermaNest,33.8,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.5
+P0534,Lightweight Summer Jacket - Series 7,Clothing,ModeCraft,73.58,A wardrobe essential designed to work across casual outings and everyday occasions.,3.5
+P0535,Minimalist Travel Wallet - Series 7,Accessories,CarryCulture,24.29,A useful everyday companion combining a clean design with convenient functionality.,4.5
+P0536,Modular Storage Organizer - Series 7,Home,OakAndStone,21.13,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.2
+P0537,Mini Construction Vehicle Set - Series 7,Toys,WonderWorks,24.66,Encourage curiosity and creative play with this engaging activity for young learners.,4.4
+P0538,Nourishing Body Lotion - Series 7,Beauty,SkinKind,23.53,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.8
+P0539,Vitamin C Brightening Cream - Series 7,Beauty,BotaniCare,194.17,"Made for everyday beauty routines, with a practical format for regular personal care.",2.9
+P0540,Educational Number Puzzle - Series 7,Toys,LittleGenius,41.79,Designed to make playtime enjoyable while encouraging exploration and imagination.,2.8
+P0541,Principles of Creative Thinking - Series 7,Books,OpenChapter,26.94,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.1
+P0542,Everyday Canvas Backpack - Series 7,Accessories,Forma,13.17,"Designed to complement daily outfits and routines with a simple, versatile look.",3.1
+P0543,Foundations of Modern Science - Series 8,Books,PageTurner,57.63,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.6
+P0544,HD Webcam - Series 8,Electronics,VoltEdge,127.28,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.3
+P0545,Stainless Steel Wristwatch - Series 7,Accessories,EverydayEdit,28.41,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.7
+P0546,Professional Yoga Mat - Series 8,Sports,PeakMotion,38.06,Support your active routine with practical design suited to training and everyday movement.,3.9
+P0547,Minimalist Wall Clock - Series 7,Home,HavenWorks,7.45,Designed to complement your interiors while adding convenience to your daily routine.,4.2
+P0548,The Art of Deep Learning - Series 8,Books,BrightLeaf,43.24,Discover an engaging learning experience through this carefully titled publication.,4.1
+P0549,Smart LED Desk Lamp - Series 8,Electronics,PixelWorks,30.82,"Designed for convenient everyday use, this smart led desk lamp - series 8 combines practical functionality with a clean, modern design.",3.5
+P0550,Cotton Cushion Cover Set - Series 7,Home,NordNest,30.65,Bring practical style to your space with this thoughtfully designed home essential.,4.2
+P0551,Modern Kitchen Container Set - Series 7,Home,HomeTheory,35.36,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.2
+P0552,Moisture Repair Hair Mask - Series 7,Beauty,GlowTheory,17.25,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.3
+P0553,Daily Sunscreen Lotion - Series 7,Beauty,PureBloom,36.63,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.5
+P0554,Wooden Serving Tray - Series 7,Home,CasaLiving,57.75,Designed to complement your interiors while adding convenience to your daily routine.,3.0
+P0555,Compact Desk Organizer - Series 7,Home,OakAndStone,63.96,Bring practical style to your space with this thoughtfully designed home essential.,5.0
+P0556,Lightweight Running Shorts - Series 8,Sports,ActiveCore,18.06,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.9
+P0557,Portable SSD Drive - Series 8,Electronics,Auralink,28.55,A versatile technology essential featuring a compact design and useful features for daily routines.,4.2
+P0558,Refreshing Facial Toner - Series 7,Beauty,DermaNest,24.19,"Made for everyday beauty routines, with a practical format for regular personal care.",3.2
+P0559,Overnight Skin Repair Cream - Series 7,Beauty,SkinKind,48.6,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.7
+P0560,Formal Office Trousers - Series 7,Clothing,ThreadTheory,70.8,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.5
+P0561,Stainless Steel Sports Bottle - Series 8,Sports,StrideWorks,51.09,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.5
+P0562,Compact Card Holder - Series 7,Accessories,NomadWorks,13.93,A useful everyday companion combining a clean design with convenient functionality.,4.3
+P0563,Compact Fitness Dumbbells - Series 8,Sports,MotionLab,14.26,Support your active routine with practical design suited to training and everyday movement.,4.2
+P0564,Premium Laptop Sleeve - Series 7,Accessories,UrbanCraft,60.14,"Designed to complement daily outfits and routines with a simple, versatile look.",4.7
+P0565,Magnetic Building Tiles - Series 7,Toys,BrightMinds,29.45,"A playful addition to a child's collection, combining discovery and hands-on activity.",5.0
+P0566,Animal Discovery Play Set - Series 7,Toys,FunFoundry,8.01,Encourage curiosity and creative play with this engaging activity for young learners.,3.4
+P0567,Decorative Table Vase - Series 7,Home,HavenWorks,55.6,"A functional home accessory with a contemporary look, suited to modern everyday living.",2.8
+P0568,Soft Cotton Bedsheet Set - Series 7,Home,NordNest,33.61,Designed to complement your interiors while adding convenience to your daily routine.,4.4
+P0569,Creative Building Blocks - Series 8,Toys,PlayOrbit,25.37,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0570,Wireless Bluetooth Earbuds - Series 9,Electronics,NovaTech,38.86,Bring convenience to your setup with this thoughtfully designed electronic accessory.,2.9
+P0571,Contemporary Wall Shelf - Series 7,Home,HomeTheory,40.08,Bring practical style to your space with this thoughtfully designed home essential.,3.2
+P0572,Natural Lip Care Balm - Series 7,Beauty,BotaniCare,23.04,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.0
+P0573,Ceramic Table Lamp - Series 8,Home,CasaLiving,49.07,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.7
+P0574,Cotton Polo Shirt - Series 7,Clothing,UrbanWeave,39.2,"Made for everyday versatility, this cotton polo shirt - series 7 offers a comfortable fit and an easy-to-style look.",4.8
+P0575,Portable Bluetooth Speaker - Series 9,Electronics,Soundora,144.07,"Designed for convenient everyday use, this portable bluetooth speaker - series 9 combines practical functionality with a clean, modern design.",4.4
+P0576,Hydrating Face Serum - Series 8,Beauty,GlowTheory,20.54,"Made for everyday beauty routines, with a practical format for regular personal care.",3.2
+P0577,Daily Repair Shampoo - Series 8,Beauty,PureBloom,28.25,A thoughtfully presented beauty essential for a simple and convenient daily routine.,5.0
+P0578,Modular Storage Organizer - Series 8,Home,OakAndStone,91.31,Designed to complement your interiors while adding convenience to your daily routine.,3.3
+P0579,A Beginner's Guide to History - Series 8,Books,KnowledgeHouse,70.96,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.3
+P0580,Classic Aviator Sunglasses - Series 7,Accessories,CarryCulture,35.62,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.0
+P0581,Adjustable Leather Belt - Series 7,Accessories,Forma,74.21,A useful everyday companion combining a clean design with convenient functionality.,4.2
+P0582,Junior Science Discovery Kit - Series 8,Toys,WonderWorks,72.89,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.5
+P0583,Comfort Fit Joggers - Series 7,Clothing,Northline,88.19,A wardrobe essential designed to work across casual outings and everyday occasions.,3.5
+P0584,Textured Knit Sweater - Series 7,Clothing,CottonLane,118.35,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0585,The Mystery of the Lost Archive - Series 8,Books,Inkstone,40.21,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.8
+P0586,Travel Organizer Pouch - Series 7,Accessories,EverydayEdit,67.89,"Designed to complement daily outfits and routines with a simple, versatile look.",3.3
+P0587,Outdoor Cycling Gloves - Series 8,Sports,FlexFit,61.78,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.1
+P0588,Wooden Puzzle Adventure - Series 8,Toys,LittleGenius,44.81,Encourage curiosity and creative play with this engaging activity for young learners.,3.0
+P0589,Smart Fitness Watch - Series 9,Electronics,VoltEdge,52.92,A versatile technology essential featuring a compact design and useful features for daily routines.,3.8
+P0590,Everyday Linen Shirt - Series 7,Clothing,ModeCraft,73.23,"Made for everyday versatility, this everyday linen shirt - series 7 offers a comfortable fit and an easy-to-style look.",3.5
+P0591,Minimalist Keychain Set - Series 7,Accessories,NomadWorks,23.32,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",2.9
+P0592,Learning Python Step by Step - Series 8,Books,OpenChapter,4.04,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0593,Gentle Foaming Face Wash - Series 8,Beauty,DermaNest,56.51,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.5
+P0594,Creative Art and Craft Set - Series 8,Toys,BrightMinds,51.09,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.8
+P0595,Performance Training T-Shirt - Series 8,Sports,PeakMotion,6.5,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.4
+P0596,Classic Oxford Shirt - Series 8,Clothing,ThreadTheory,45.22,A wardrobe essential designed to work across casual outings and everyday occasions.,3.9
+P0597,Minimalist Wall Clock - Series 8,Home,HavenWorks,124.74,Bring practical style to your space with this thoughtfully designed home essential.,3.6
+P0598,The Psychology of Everyday Life - Series 8,Books,PageTurner,128.95,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.7
+P0599,Introduction to Data Science - Series 8,Books,BrightLeaf,71.37,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.1
+P0600,Interactive Learning Board - Series 8,Toys,FunFoundry,166.98,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.1
+P0601,Noise Cancelling Headphones - Series 9,Electronics,PixelWorks,37.09,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.4
+P0602,Colorful Stacking Rings - Series 8,Toys,PlayOrbit,29.25,Encourage curiosity and creative play with this engaging activity for young learners.,3.4
+P0603,Classic Leather Sling Bag - Series 8,Accessories,UrbanCraft,26.76,A useful everyday companion combining a clean design with convenient functionality.,3.6
+P0604,Minimalist Travel Wallet - Series 8,Accessories,CarryCulture,63.0,"Designed to complement daily outfits and routines with a simple, versatile look.",2.9
+P0605,Relaxed Fit Cotton Hoodie - Series 8,Clothing,UrbanWeave,160.71,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.5
+P0606,Compact Power Bank - Series 9,Electronics,Auralink,18.63,"Designed for convenient everyday use, this compact power bank - series 9 combines practical functionality with a clean, modern design.",4.2
+P0607,Mechanical Gaming Keyboard - Series 9,Electronics,NovaTech,51.16,A versatile technology essential featuring a compact design and useful features for daily routines.,3.6
+P0608,Everyday Casual T-Shirt - Series 8,Clothing,Northline,25.69,"Made for everyday versatility, this everyday casual t-shirt - series 8 offers a comfortable fit and an easy-to-style look.",5.0
+P0609,Wireless Optical Mouse - Series 9,Electronics,Soundora,39.18,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.8
+P0610,Cotton Cushion Cover Set - Series 8,Home,NordNest,33.88,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.1
+P0611,Exercise Jump Rope - Series 8,Sports,ActiveCore,45.11,Support your active routine with practical design suited to training and everyday movement.,2.8
+P0612,Nourishing Body Lotion - Series 8,Beauty,SkinKind,19.91,"Made for everyday beauty routines, with a practical format for regular personal care.",3.0
+P0613,Slim Fit Denim Jeans - Series 8,Clothing,CottonLane,267.88,A wardrobe essential designed to work across casual outings and everyday occasions.,4.8
+P0614,HD Webcam - Series 9,Electronics,VoltEdge,22.42,"Designed for convenient everyday use, this hd webcam - series 9 combines practical functionality with a clean, modern design.",4.4
+P0615,Sports Gym Duffel Bag - Series 8,Sports,StrideWorks,45.31,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.4
+P0616,Mini Construction Vehicle Set - Series 8,Toys,WonderWorks,19.99,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.9
+P0617,Educational Number Puzzle - Series 8,Toys,LittleGenius,25.38,"A playful addition to a child's collection, combining discovery and hands-on activity.",2.9
+P0618,Modern Kitchen Container Set - Series 8,Home,HomeTheory,34.94,Designed to complement your interiors while adding convenience to your daily routine.,4.1
+P0619,Wooden Serving Tray - Series 8,Home,CasaLiving,23.17,Bring practical style to your space with this thoughtfully designed home essential.,3.9
+P0620,Magnetic Building Tiles - Series 8,Toys,BrightMinds,90.86,Encourage curiosity and creative play with this engaging activity for young learners.,3.9
+P0621,Smart LED Desk Lamp - Series 9,Electronics,PixelWorks,49.47,A versatile technology essential featuring a compact design and useful features for daily routines.,4.3
+P0622,Compact Desk Organizer - Series 8,Home,OakAndStone,22.09,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.7
+P0623,The Complete Guide to Astronomy - Series 8,Books,KnowledgeHouse,20.86,Discover an engaging learning experience through this carefully titled publication.,4.3
+P0624,Animal Discovery Play Set - Series 8,Toys,FunFoundry,50.18,Designed to make playtime enjoyable while encouraging exploration and imagination.,2.8
+P0625,Everyday Canvas Backpack - Series 8,Accessories,Forma,30.96,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.4
+P0626,Creative Building Blocks - Series 9,Toys,PlayOrbit,51.61,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.2
+P0627,Stainless Steel Wristwatch - Series 8,Accessories,EverydayEdit,7.53,A useful everyday companion combining a clean design with convenient functionality.,4.6
+P0628,Portable SSD Drive - Series 9,Electronics,Auralink,74.44,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.2
+P0629,FlexRun Training Shoes - Series 9,Sports,MotionLab,38.14,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.4
+P0630,Decorative Table Vase - Series 8,Home,HavenWorks,18.39,Designed to complement your interiors while adding convenience to your daily routine.,3.3
+P0631,Lightweight Summer Jacket - Series 8,Clothing,ModeCraft,13.84,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0632,Stories from Around the World - Series 8,Books,Inkstone,19.29,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.3
+P0633,Adjustable Resistance Bands - Series 9,Sports,FlexFit,134.93,Support your active routine with practical design suited to training and everyday movement.,4.1
+P0634,Compact Card Holder - Series 8,Accessories,NomadWorks,13.15,"Designed to complement daily outfits and routines with a simple, versatile look.",4.3
+P0635,Professional Yoga Mat - Series 9,Sports,PeakMotion,31.33,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.8
+P0636,Premium Laptop Sleeve - Series 8,Accessories,UrbanCraft,15.19,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.9
+P0637,Junior Science Discovery Kit - Series 9,Toys,WonderWorks,21.38,Encourage curiosity and creative play with this engaging activity for young learners.,3.2
+P0638,Formal Office Trousers - Series 8,Clothing,ThreadTheory,40.81,"Made for everyday versatility, this formal office trousers - series 8 offers a comfortable fit and an easy-to-style look.",3.1
+P0639,Wireless Bluetooth Earbuds - Series 10,Electronics,NovaTech,70.09,"Designed for convenient everyday use, this wireless bluetooth earbuds - series 10 combines practical functionality with a clean, modern design.",3.7
+P0640,Principles of Creative Thinking - Series 8,Books,OpenChapter,76.3,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.8
+P0641,Classic Aviator Sunglasses - Series 8,Accessories,CarryCulture,60.76,A useful everyday companion combining a clean design with convenient functionality.,4.7
+P0642,Soft Cotton Bedsheet Set - Series 8,Home,NordNest,178.17,Bring practical style to your space with this thoughtfully designed home essential.,4.4
+P0643,Wooden Puzzle Adventure - Series 9,Toys,LittleGenius,30.26,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0644,Cotton Polo Shirt - Series 8,Clothing,UrbanWeave,165.78,A wardrobe essential designed to work across casual outings and everyday occasions.,4.2
+P0645,Portable Bluetooth Speaker - Series 10,Electronics,Soundora,24.43,A versatile technology essential featuring a compact design and useful features for daily routines.,5.0
+P0646,Lightweight Running Shorts - Series 9,Sports,ActiveCore,28.8,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.2
+P0647,Foundations of Modern Science - Series 9,Books,PageTurner,9.39,Discover an engaging learning experience through this carefully titled publication.,5.0
+P0648,Contemporary Wall Shelf - Series 8,Home,HomeTheory,8.93,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.6
+P0649,Smart Fitness Watch - Series 10,Electronics,VoltEdge,19.07,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.3
+P0650,The Art of Deep Learning - Series 9,Books,BrightLeaf,79.58,Explore key ideas and engaging perspectives in this thoughtfully presented book.,2.9
+P0651,Stainless Steel Sports Bottle - Series 9,Sports,StrideWorks,34.78,Support your active routine with practical design suited to training and everyday movement.,4.7
+P0652,Noise Cancelling Headphones - Series 10,Electronics,PixelWorks,13.47,"Designed for convenient everyday use, this noise cancelling headphones - series 10 combines practical functionality with a clean, modern design.",4.6
+P0653,Adjustable Leather Belt - Series 8,Accessories,Forma,63.21,"Designed to complement daily outfits and routines with a simple, versatile look.",3.2
+P0654,Vitamin C Brightening Cream - Series 8,Beauty,BotaniCare,20.6,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.8
+P0655,Comfort Fit Joggers - Series 8,Clothing,Northline,46.31,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.6
+P0656,A Beginner's Guide to History - Series 9,Books,KnowledgeHouse,81.67,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.6
+P0657,The Mystery of the Lost Archive - Series 9,Books,Inkstone,49.6,Discover an engaging learning experience through this carefully titled publication.,3.2
+P0658,Travel Organizer Pouch - Series 8,Accessories,EverydayEdit,47.92,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.3
+P0659,Moisture Repair Hair Mask - Series 8,Beauty,GlowTheory,13.46,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.4
+P0660,Textured Knit Sweater - Series 8,Clothing,CottonLane,64.13,"Made for everyday versatility, this textured knit sweater - series 8 offers a comfortable fit and an easy-to-style look.",4.1
+P0661,Everyday Linen Shirt - Series 8,Clothing,ModeCraft,42.65,A wardrobe essential designed to work across casual outings and everyday occasions.,4.2
+P0662,Creative Art and Craft Set - Series 9,Toys,BrightMinds,72.88,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.1
+P0663,Learning Python Step by Step - Series 9,Books,OpenChapter,58.87,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.0
+P0664,Interactive Learning Board - Series 9,Toys,FunFoundry,11.06,Encourage curiosity and creative play with this engaging activity for young learners.,4.7
+P0665,Compact Power Bank - Series 10,Electronics,Auralink,75.26,A versatile technology essential featuring a compact design and useful features for daily routines.,3.7
+P0666,Colorful Stacking Rings - Series 9,Toys,PlayOrbit,99.19,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.2
+P0667,Minimalist Keychain Set - Series 8,Accessories,NomadWorks,20.42,A useful everyday companion combining a clean design with convenient functionality.,3.1
+P0668,Ceramic Table Lamp - Series 9,Home,CasaLiving,49.04,Designed to complement your interiors while adding convenience to your daily routine.,4.1
+P0669,Modular Storage Organizer - Series 9,Home,OakAndStone,27.35,Bring practical style to your space with this thoughtfully designed home essential.,3.1
+P0670,Classic Oxford Shirt - Series 9,Clothing,ThreadTheory,114.3,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.4
+P0671,The Psychology of Everyday Life - Series 9,Books,PageTurner,21.71,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.9
+P0672,Introduction to Data Science - Series 9,Books,BrightLeaf,42.95,Discover an engaging learning experience through this carefully titled publication.,3.6
+P0673,Relaxed Fit Cotton Hoodie - Series 9,Clothing,UrbanWeave,64.71,"Made for everyday versatility, this relaxed fit cotton hoodie - series 9 offers a comfortable fit and an easy-to-style look.",2.9
+P0674,Compact Fitness Dumbbells - Series 9,Sports,MotionLab,29.75,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.9
+P0675,Daily Sunscreen Lotion - Series 8,Beauty,PureBloom,14.01,"Made for everyday beauty routines, with a practical format for regular personal care.",3.6
+P0676,Everyday Casual T-Shirt - Series 9,Clothing,Northline,45.2,A wardrobe essential designed to work across casual outings and everyday occasions.,4.6
+P0677,The Complete Guide to Astronomy - Series 9,Books,KnowledgeHouse,46.85,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.2
+P0678,Classic Leather Sling Bag - Series 9,Accessories,UrbanCraft,54.19,"Designed to complement daily outfits and routines with a simple, versatile look.",3.9
+P0679,Minimalist Wall Clock - Series 9,Home,HavenWorks,38.5,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.9
+P0680,Outdoor Cycling Gloves - Series 9,Sports,FlexFit,31.27,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",2.9
+P0681,Mechanical Gaming Keyboard - Series 10,Electronics,NovaTech,32.31,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.0
+P0682,Minimalist Travel Wallet - Series 9,Accessories,CarryCulture,11.72,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.8
+P0683,Performance Training T-Shirt - Series 9,Sports,PeakMotion,15.59,Support your active routine with practical design suited to training and everyday movement.,3.9
+P0684,Mini Construction Vehicle Set - Series 9,Toys,WonderWorks,29.53,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.3
+P0685,Educational Number Puzzle - Series 9,Toys,LittleGenius,22.59,Encourage curiosity and creative play with this engaging activity for young learners.,4.8
+P0686,Cotton Cushion Cover Set - Series 9,Home,NordNest,5.65,Designed to complement your interiors while adding convenience to your daily routine.,4.8
+P0687,Slim Fit Denim Jeans - Series 9,Clothing,CottonLane,96.68,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.3
+P0688,Refreshing Facial Toner - Series 8,Beauty,DermaNest,13.42,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.8
+P0689,Exercise Jump Rope - Series 9,Sports,ActiveCore,40.62,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.7
+P0690,Overnight Skin Repair Cream - Series 8,Beauty,SkinKind,113.22,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.1
+P0691,Sports Gym Duffel Bag - Series 9,Sports,StrideWorks,86.89,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",2.9
+P0692,Modern Kitchen Container Set - Series 9,Home,HomeTheory,41.4,Bring practical style to your space with this thoughtfully designed home essential.,3.9
+P0693,Natural Lip Care Balm - Series 8,Beauty,BotaniCare,41.5,"Made for everyday beauty routines, with a practical format for regular personal care.",4.3
+P0694,Magnetic Building Tiles - Series 9,Toys,BrightMinds,32.41,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.8
+P0695,FlexRun Training Shoes - Series 10,Sports,MotionLab,100.99,Support your active routine with practical design suited to training and everyday movement.,4.3
+P0696,Wooden Serving Tray - Series 9,Home,CasaLiving,102.43,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.5
+P0697,Stories from Around the World - Series 9,Books,Inkstone,24.19,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.8
+P0698,Animal Discovery Play Set - Series 9,Toys,FunFoundry,68.9,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.0
+P0699,Compact Desk Organizer - Series 9,Home,OakAndStone,185.45,Designed to complement your interiors while adding convenience to your daily routine.,4.8
+P0700,Lightweight Summer Jacket - Series 9,Clothing,ModeCraft,59.26,"Made for everyday versatility, this lightweight summer jacket - series 9 offers a comfortable fit and an easy-to-style look.",3.4
+P0701,Hydrating Face Serum - Series 9,Beauty,GlowTheory,18.79,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.0
+P0702,Everyday Canvas Backpack - Series 9,Accessories,Forma,41.57,A useful everyday companion combining a clean design with convenient functionality.,3.2
+P0703,Stainless Steel Wristwatch - Series 9,Accessories,EverydayEdit,63.85,"Designed to complement daily outfits and routines with a simple, versatile look.",3.7
+P0704,Formal Office Trousers - Series 9,Clothing,ThreadTheory,139.06,A wardrobe essential designed to work across casual outings and everyday occasions.,3.8
+P0705,Daily Repair Shampoo - Series 9,Beauty,PureBloom,66.06,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.4
+P0706,Cotton Polo Shirt - Series 9,Clothing,UrbanWeave,27.58,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.0
+P0707,Adjustable Resistance Bands - Series 10,Sports,FlexFit,42.99,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.6
+P0708,Creative Building Blocks - Series 10,Toys,PlayOrbit,26.99,Encourage curiosity and creative play with this engaging activity for young learners.,3.7
+P0709,Decorative Table Vase - Series 9,Home,HavenWorks,57.49,Bring practical style to your space with this thoughtfully designed home essential.,4.7
+P0710,Comfort Fit Joggers - Series 9,Clothing,Northline,11.46,"Made for everyday versatility, this comfort fit joggers - series 9 offers a comfortable fit and an easy-to-style look.",4.8
+P0711,Textured Knit Sweater - Series 9,Clothing,CottonLane,15.21,A wardrobe essential designed to work across casual outings and everyday occasions.,4.7
+P0712,Gentle Foaming Face Wash - Series 9,Beauty,DermaNest,66.43,"Made for everyday beauty routines, with a practical format for regular personal care.",3.2
+P0713,Soft Cotton Bedsheet Set - Series 9,Home,NordNest,8.27,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.6
+P0714,Professional Yoga Mat - Series 10,Sports,PeakMotion,20.51,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.5
+P0715,Principles of Creative Thinking - Series 9,Books,OpenChapter,215.69,Discover an engaging learning experience through this carefully titled publication.,4.3
+P0716,Nourishing Body Lotion - Series 9,Beauty,SkinKind,189.58,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.4
+P0717,Foundations of Modern Science - Series 10,Books,PageTurner,24.55,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.5
+P0718,Junior Science Discovery Kit - Series 10,Toys,WonderWorks,54.0,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.2
+P0719,Vitamin C Brightening Cream - Series 9,Beauty,BotaniCare,71.13,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.2
+P0720,Compact Card Holder - Series 9,Accessories,NomadWorks,51.71,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.7
+P0721,Moisture Repair Hair Mask - Series 9,Beauty,GlowTheory,16.8,"Made for everyday beauty routines, with a practical format for regular personal care.",2.9
+P0722,Everyday Linen Shirt - Series 9,Clothing,ModeCraft,20.05,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.8
+P0723,Wooden Puzzle Adventure - Series 10,Toys,LittleGenius,19.1,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.2
+P0724,Classic Oxford Shirt - Series 10,Clothing,ThreadTheory,26.79,"Made for everyday versatility, this classic oxford shirt - series 10 offers a comfortable fit and an easy-to-style look.",4.6
+P0725,Relaxed Fit Cotton Hoodie - Series 10,Clothing,UrbanWeave,99.22,A wardrobe essential designed to work across casual outings and everyday occasions.,4.1
+P0726,Everyday Casual T-Shirt - Series 10,Clothing,Northline,111.65,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0727,Slim Fit Denim Jeans - Series 10,Clothing,CottonLane,32.9,"Made for everyday versatility, this slim fit denim jeans - series 10 offers a comfortable fit and an easy-to-style look.",4.2
+P0728,Daily Sunscreen Lotion - Series 9,Beauty,PureBloom,26.95,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.6
+P0729,Premium Laptop Sleeve - Series 9,Accessories,UrbanCraft,52.03,A useful everyday companion combining a clean design with convenient functionality.,4.8
+P0730,Creative Art and Craft Set - Series 10,Toys,BrightMinds,73.07,Encourage curiosity and creative play with this engaging activity for young learners.,4.6
+P0731,Classic Aviator Sunglasses - Series 9,Accessories,CarryCulture,34.03,"Designed to complement daily outfits and routines with a simple, versatile look.",4.1
+P0732,Refreshing Facial Toner - Series 9,Beauty,DermaNest,117.89,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.3
+P0733,Lightweight Running Shorts - Series 10,Sports,ActiveCore,58.29,Support your active routine with practical design suited to training and everyday movement.,3.2
+P0734,Interactive Learning Board - Series 10,Toys,FunFoundry,79.64,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.8
+P0735,Colorful Stacking Rings - Series 10,Toys,PlayOrbit,13.06,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.8
+P0736,Mini Construction Vehicle Set - Series 10,Toys,WonderWorks,92.88,Encourage curiosity and creative play with this engaging activity for young learners.,4.3
+P0737,Lightweight Summer Jacket - Series 10,Clothing,ModeCraft,44.37,A wardrobe essential designed to work across casual outings and everyday occasions.,3.1
+P0738,Contemporary Wall Shelf - Series 9,Home,HomeTheory,53.9,Designed to complement your interiors while adding convenience to your daily routine.,3.3
+P0739,Ceramic Table Lamp - Series 10,Home,CasaLiving,19.91,Bring practical style to your space with this thoughtfully designed home essential.,3.2
+P0740,Adjustable Leather Belt - Series 9,Accessories,Forma,20.63,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.1
+P0741,Overnight Skin Repair Cream - Series 9,Beauty,SkinKind,23.21,"Made for everyday beauty routines, with a practical format for regular personal care.",2.8
+P0742,Natural Lip Care Balm - Series 9,Beauty,BotaniCare,22.04,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.8
+P0743,Educational Number Puzzle - Series 10,Toys,LittleGenius,44.74,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.7
+P0744,Travel Organizer Pouch - Series 9,Accessories,EverydayEdit,18.63,A useful everyday companion combining a clean design with convenient functionality.,4.9
+P0745,Minimalist Keychain Set - Series 9,Accessories,NomadWorks,71.47,"Designed to complement daily outfits and routines with a simple, versatile look.",4.4
+P0746,Stainless Steel Sports Bottle - Series 10,Sports,StrideWorks,12.87,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.0
+P0747,Classic Leather Sling Bag - Series 10,Accessories,UrbanCraft,184.37,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.2
+P0748,Minimalist Travel Wallet - Series 10,Accessories,CarryCulture,54.56,A useful everyday companion combining a clean design with convenient functionality.,3.2
+P0749,Hydrating Face Serum - Series 10,Beauty,GlowTheory,73.46,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.4
+P0750,Compact Fitness Dumbbells - Series 10,Sports,MotionLab,47.01,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.9
+P0751,Modular Storage Organizer - Series 10,Home,OakAndStone,16.61,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.3
+P0752,Wireless Optical Mouse - Series 10,Electronics,Soundora,50.51,"Designed for convenient everyday use, this wireless optical mouse - series 10 combines practical functionality with a clean, modern design.",4.1
+P0753,Everyday Canvas Backpack - Series 10,Accessories,Forma,77.56,"Designed to complement daily outfits and routines with a simple, versatile look.",3.6
+P0754,The Art of Deep Learning - Series 10,Books,BrightLeaf,27.77,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.7
+P0755,Formal Office Trousers - Series 10,Clothing,ThreadTheory,180.56,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.5
+P0756,A Beginner's Guide to History - Series 10,Books,KnowledgeHouse,71.0,Discover an engaging learning experience through this carefully titled publication.,2.9
+P0757,Outdoor Cycling Gloves - Series 10,Sports,FlexFit,79.28,Support your active routine with practical design suited to training and everyday movement.,4.2
+P0758,The Mystery of the Lost Archive - Series 10,Books,Inkstone,33.51,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.5
+P0759,Magnetic Building Tiles - Series 10,Toys,BrightMinds,53.76,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.5
+P0760,HD Webcam - Series 10,Electronics,VoltEdge,20.13,A versatile technology essential featuring a compact design and useful features for daily routines.,3.1
+P0761,Minimalist Wall Clock - Series 10,Home,HavenWorks,25.04,Designed to complement your interiors while adding convenience to your daily routine.,4.3
+P0762,Animal Discovery Play Set - Series 10,Toys,FunFoundry,97.69,Encourage curiosity and creative play with this engaging activity for young learners.,3.6
+P0763,Smart LED Desk Lamp - Series 10,Electronics,PixelWorks,14.99,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.5
+P0764,Portable SSD Drive - Series 10,Electronics,Auralink,41.39,"Designed for convenient everyday use, this portable ssd drive - series 10 combines practical functionality with a clean, modern design.",4.9
+P0765,Wireless Bluetooth Earbuds - Series 11,Electronics,NovaTech,27.08,A versatile technology essential featuring a compact design and useful features for daily routines.,3.4
+P0766,Creative Building Blocks - Series 11,Toys,PlayOrbit,83.0,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0767,Daily Repair Shampoo - Series 10,Beauty,PureBloom,35.38,"Made for everyday beauty routines, with a practical format for regular personal care.",4.7
+P0768,Cotton Cushion Cover Set - Series 10,Home,NordNest,43.56,Bring practical style to your space with this thoughtfully designed home essential.,4.8
+P0769,Performance Training T-Shirt - Series 10,Sports,PeakMotion,17.91,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.3
+P0770,Junior Science Discovery Kit - Series 11,Toys,WonderWorks,38.2,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.1
+P0771,Gentle Foaming Face Wash - Series 10,Beauty,DermaNest,69.81,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.1
+P0772,Exercise Jump Rope - Series 10,Sports,ActiveCore,39.43,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.3
+P0773,Cotton Polo Shirt - Series 10,Clothing,UrbanWeave,151.16,"Made for everyday versatility, this cotton polo shirt - series 10 offers a comfortable fit and an easy-to-style look.",4.9
+P0774,Portable Bluetooth Speaker - Series 11,Electronics,Soundora,105.21,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.7
+P0775,Smart Fitness Watch - Series 11,Electronics,VoltEdge,18.22,"Designed for convenient everyday use, this smart fitness watch - series 11 combines practical functionality with a clean, modern design.",4.2
+P0776,Stainless Steel Wristwatch - Series 10,Accessories,EverydayEdit,122.44,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.0
+P0777,Wooden Puzzle Adventure - Series 11,Toys,LittleGenius,57.7,Encourage curiosity and creative play with this engaging activity for young learners.,4.0
+P0778,Nourishing Body Lotion - Series 10,Beauty,SkinKind,65.14,A daily personal-care essential designed to fit conveniently into your self-care routine.,2.9
+P0779,Noise Cancelling Headphones - Series 11,Electronics,PixelWorks,40.95,A versatile technology essential featuring a compact design and useful features for daily routines.,3.3
+P0780,Learning Python Step by Step - Series 10,Books,OpenChapter,23.86,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.8
+P0781,Modern Kitchen Container Set - Series 10,Home,HomeTheory,34.62,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.1
+P0782,Comfort Fit Joggers - Series 10,Clothing,Northline,62.96,A wardrobe essential designed to work across casual outings and everyday occasions.,3.7
+P0783,The Psychology of Everyday Life - Series 10,Books,PageTurner,17.85,Discover an engaging learning experience through this carefully titled publication.,4.3
+P0784,Vitamin C Brightening Cream - Series 10,Beauty,BotaniCare,16.14,"Made for everyday beauty routines, with a practical format for regular personal care.",3.7
+P0785,Moisture Repair Hair Mask - Series 10,Beauty,GlowTheory,12.73,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.0
+P0786,Compact Card Holder - Series 10,Accessories,NomadWorks,117.82,A useful everyday companion combining a clean design with convenient functionality.,4.1
+P0787,Wooden Serving Tray - Series 10,Home,CasaLiving,22.1,Designed to complement your interiors while adding convenience to your daily routine.,4.6
+P0788,Premium Laptop Sleeve - Series 10,Accessories,UrbanCraft,47.59,"Designed to complement daily outfits and routines with a simple, versatile look.",4.0
+P0789,Compact Power Bank - Series 11,Electronics,Auralink,39.15,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.8
+P0790,Compact Desk Organizer - Series 10,Home,OakAndStone,7.71,Bring practical style to your space with this thoughtfully designed home essential.,3.6
+P0791,Textured Knit Sweater - Series 10,Clothing,CottonLane,63.55,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.1
+P0792,Decorative Table Vase - Series 10,Home,HavenWorks,84.82,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.2
+P0793,Classic Aviator Sunglasses - Series 10,Accessories,CarryCulture,61.58,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.2
+P0794,Creative Art and Craft Set - Series 11,Toys,BrightMinds,58.57,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.0
+P0795,Introduction to Data Science - Series 10,Books,BrightLeaf,261.63,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.8
+P0796,Adjustable Leather Belt - Series 10,Accessories,Forma,110.59,A useful everyday companion combining a clean design with convenient functionality.,2.9
+P0797,Travel Organizer Pouch - Series 10,Accessories,EverydayEdit,31.26,"Designed to complement daily outfits and routines with a simple, versatile look.",4.6
+P0798,Soft Cotton Bedsheet Set - Series 10,Home,NordNest,54.81,Designed to complement your interiors while adding convenience to your daily routine.,5.0
+P0799,Sports Gym Duffel Bag - Series 10,Sports,StrideWorks,58.43,Support your active routine with practical design suited to training and everyday movement.,5.0
+P0800,Interactive Learning Board - Series 11,Toys,FunFoundry,26.49,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.0
+P0801,Mechanical Gaming Keyboard - Series 11,Electronics,NovaTech,45.96,"Designed for convenient everyday use, this mechanical gaming keyboard - series 11 combines practical functionality with a clean, modern design.",3.5
+P0802,Everyday Linen Shirt - Series 10,Clothing,ModeCraft,35.12,"Made for everyday versatility, this everyday linen shirt - series 10 offers a comfortable fit and an easy-to-style look.",4.3
+P0803,The Complete Guide to Astronomy - Series 10,Books,KnowledgeHouse,110.68,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.3
+P0804,Stories from Around the World - Series 10,Books,Inkstone,34.39,Discover an engaging learning experience through this carefully titled publication.,4.5
+P0805,Daily Sunscreen Lotion - Series 10,Beauty,PureBloom,24.07,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.9
+P0806,Principles of Creative Thinking - Series 10,Books,OpenChapter,37.32,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.5
+P0807,Refreshing Facial Toner - Series 10,Beauty,DermaNest,46.63,"Made for everyday beauty routines, with a practical format for regular personal care.",3.9
+P0808,Foundations of Modern Science - Series 11,Books,PageTurner,54.69,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.4
+P0809,Overnight Skin Repair Cream - Series 10,Beauty,SkinKind,170.48,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.2
+P0810,Natural Lip Care Balm - Series 10,Beauty,BotaniCare,40.19,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.3
+P0811,FlexRun Training Shoes - Series 11,Sports,MotionLab,62.72,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.0
+P0812,Wireless Optical Mouse - Series 11,Electronics,Soundora,94.37,A versatile technology essential featuring a compact design and useful features for daily routines.,3.8
+P0813,Contemporary Wall Shelf - Series 10,Home,HomeTheory,41.81,Bring practical style to your space with this thoughtfully designed home essential.,4.6
+P0814,Adjustable Resistance Bands - Series 11,Sports,FlexFit,26.81,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.1
+P0815,The Art of Deep Learning - Series 11,Books,BrightLeaf,45.9,Discover an engaging learning experience through this carefully titled publication.,4.8
+P0816,Hydrating Face Serum - Series 11,Beauty,GlowTheory,85.76,"Made for everyday beauty routines, with a practical format for regular personal care.",4.5
+P0817,HD Webcam - Series 11,Electronics,VoltEdge,59.87,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.6
+P0818,Smart LED Desk Lamp - Series 11,Electronics,PixelWorks,31.62,"Designed for convenient everyday use, this smart led desk lamp - series 11 combines practical functionality with a clean, modern design.",4.3
+P0819,Classic Oxford Shirt - Series 11,Clothing,ThreadTheory,76.5,A wardrobe essential designed to work across casual outings and everyday occasions.,3.2
+P0820,A Beginner's Guide to History - Series 11,Books,KnowledgeHouse,19.2,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.4
+P0821,Relaxed Fit Cotton Hoodie - Series 11,Clothing,UrbanWeave,20.65,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.3
+P0822,Ceramic Table Lamp - Series 11,Home,CasaLiving,66.3,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.5
+P0823,Portable SSD Drive - Series 11,Electronics,Auralink,10.12,A versatile technology essential featuring a compact design and useful features for daily routines.,3.9
+P0824,Professional Yoga Mat - Series 11,Sports,PeakMotion,19.18,Support your active routine with practical design suited to training and everyday movement.,3.4
+P0825,Everyday Casual T-Shirt - Series 11,Clothing,Northline,22.25,"Made for everyday versatility, this everyday casual t-shirt - series 11 offers a comfortable fit and an easy-to-style look.",3.3
+P0826,The Mystery of the Lost Archive - Series 11,Books,Inkstone,13.05,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",2.9
+P0827,Lightweight Running Shorts - Series 11,Sports,ActiveCore,57.65,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.9
+P0828,Minimalist Keychain Set - Series 10,Accessories,NomadWorks,45.31,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.2
+P0829,Modular Storage Organizer - Series 11,Home,OakAndStone,14.86,Designed to complement your interiors while adding convenience to your daily routine.,4.4
+P0830,Classic Leather Sling Bag - Series 11,Accessories,UrbanCraft,31.43,A useful everyday companion combining a clean design with convenient functionality.,3.1
+P0831,Minimalist Wall Clock - Series 11,Home,HavenWorks,94.72,Bring practical style to your space with this thoughtfully designed home essential.,3.2
+P0832,Stainless Steel Sports Bottle - Series 11,Sports,StrideWorks,59.77,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",4.5
+P0833,Wireless Bluetooth Earbuds - Series 12,Electronics,NovaTech,36.69,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.1
+P0834,Colorful Stacking Rings - Series 11,Toys,PlayOrbit,21.02,Encourage curiosity and creative play with this engaging activity for young learners.,3.9
+P0835,Compact Fitness Dumbbells - Series 11,Sports,MotionLab,3.14,Support your active routine with practical design suited to training and everyday movement.,4.6
+P0836,Learning Python Step by Step - Series 11,Books,OpenChapter,31.17,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0837,Slim Fit Denim Jeans - Series 11,Clothing,CottonLane,45.25,A wardrobe essential designed to work across casual outings and everyday occasions.,4.2
+P0838,Cotton Cushion Cover Set - Series 11,Home,NordNest,271.47,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.0
+P0839,Modern Kitchen Container Set - Series 11,Home,HomeTheory,25.81,Designed to complement your interiors while adding convenience to your daily routine.,4.5
+P0840,Outdoor Cycling Gloves - Series 11,Sports,FlexFit,38.79,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.4
+P0841,Portable Bluetooth Speaker - Series 12,Electronics,Soundora,113.42,"Designed for convenient everyday use, this portable bluetooth speaker - series 12 combines practical functionality with a clean, modern design.",4.6
+P0842,Daily Repair Shampoo - Series 11,Beauty,PureBloom,19.2,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.5
+P0843,Wooden Serving Tray - Series 11,Home,CasaLiving,22.61,Bring practical style to your space with this thoughtfully designed home essential.,3.7
+P0844,Smart Fitness Watch - Series 12,Electronics,VoltEdge,93.54,A versatile technology essential featuring a compact design and useful features for daily routines.,3.1
+P0845,Lightweight Summer Jacket - Series 11,Clothing,ModeCraft,26.53,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0846,Compact Desk Organizer - Series 11,Home,OakAndStone,78.46,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.8
+P0847,The Psychology of Everyday Life - Series 11,Books,PageTurner,56.2,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.0
+P0848,Mini Construction Vehicle Set - Series 11,Toys,WonderWorks,34.7,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.9
+P0849,Noise Cancelling Headphones - Series 12,Electronics,PixelWorks,30.16,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.4
+P0850,Decorative Table Vase - Series 11,Home,HavenWorks,22.01,Designed to complement your interiors while adding convenience to your daily routine.,4.0
+P0851,Minimalist Travel Wallet - Series 11,Accessories,CarryCulture,39.41,"Designed to complement daily outfits and routines with a simple, versatile look.",3.6
+P0852,Introduction to Data Science - Series 11,Books,BrightLeaf,57.96,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.6
+P0853,Performance Training T-Shirt - Series 11,Sports,PeakMotion,62.01,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.6
+P0854,The Complete Guide to Astronomy - Series 11,Books,KnowledgeHouse,13.59,Discover an engaging learning experience through this carefully titled publication.,4.9
+P0855,Gentle Foaming Face Wash - Series 11,Beauty,DermaNest,94.88,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.6
+P0856,Nourishing Body Lotion - Series 11,Beauty,SkinKind,58.09,"Made for everyday beauty routines, with a practical format for regular personal care.",2.9
+P0857,Exercise Jump Rope - Series 11,Sports,ActiveCore,57.14,Support your active routine with practical design suited to training and everyday movement.,4.7
+P0858,Everyday Canvas Backpack - Series 11,Accessories,Forma,41.14,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.1
+P0859,Sports Gym Duffel Bag - Series 11,Sports,StrideWorks,105.73,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.9
+P0860,Stories from Around the World - Series 11,Books,Inkstone,38.67,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.6
+P0861,Vitamin C Brightening Cream - Series 11,Beauty,BotaniCare,79.27,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.2
+P0862,Moisture Repair Hair Mask - Series 11,Beauty,GlowTheory,33.5,A daily personal-care essential designed to fit conveniently into your self-care routine.,5.0
+P0863,Principles of Creative Thinking - Series 11,Books,OpenChapter,141.95,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.7
+P0864,Formal Office Trousers - Series 11,Clothing,ThreadTheory,35.82,"Made for everyday versatility, this formal office trousers - series 11 offers a comfortable fit and an easy-to-style look.",3.7
+P0865,Soft Cotton Bedsheet Set - Series 11,Home,NordNest,21.14,Bring practical style to your space with this thoughtfully designed home essential.,4.0
+P0866,Daily Sunscreen Lotion - Series 11,Beauty,PureBloom,62.23,"Made for everyday beauty routines, with a practical format for regular personal care.",3.1
+P0867,Refreshing Facial Toner - Series 11,Beauty,DermaNest,44.85,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.7
+P0868,Cotton Polo Shirt - Series 11,Clothing,UrbanWeave,308.87,A wardrobe essential designed to work across casual outings and everyday occasions.,3.9
+P0869,FlexRun Training Shoes - Series 12,Sports,MotionLab,79.19,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",2.9
+P0870,Educational Number Puzzle - Series 11,Toys,LittleGenius,33.68,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.2
+P0871,Stainless Steel Wristwatch - Series 11,Accessories,EverydayEdit,71.74,A useful everyday companion combining a clean design with convenient functionality.,2.9
+P0872,Magnetic Building Tiles - Series 11,Toys,BrightMinds,66.51,Encourage curiosity and creative play with this engaging activity for young learners.,3.9
+P0873,Compact Power Bank - Series 12,Electronics,Auralink,20.77,"Designed for convenient everyday use, this compact power bank - series 12 combines practical functionality with a clean, modern design.",3.1
+P0874,Contemporary Wall Shelf - Series 11,Home,HomeTheory,10.42,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.0
+P0875,Compact Card Holder - Series 11,Accessories,NomadWorks,72.63,"Designed to complement daily outfits and routines with a simple, versatile look.",4.7
+P0876,Ceramic Table Lamp - Series 12,Home,CasaLiving,133.78,Designed to complement your interiors while adding convenience to your daily routine.,3.1
+P0877,Modular Storage Organizer - Series 12,Home,OakAndStone,37.95,Bring practical style to your space with this thoughtfully designed home essential.,3.4
+P0878,Foundations of Modern Science - Series 12,Books,PageTurner,34.82,Discover an engaging learning experience through this carefully titled publication.,3.1
+P0879,The Art of Deep Learning - Series 12,Books,BrightLeaf,26.49,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.3
+P0880,Overnight Skin Repair Cream - Series 11,Beauty,SkinKind,34.64,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.0
+P0881,Premium Laptop Sleeve - Series 11,Accessories,UrbanCraft,28.19,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.4
+P0882,Minimalist Wall Clock - Series 12,Home,HavenWorks,48.53,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.2
+P0883,Classic Aviator Sunglasses - Series 11,Accessories,CarryCulture,135.65,A useful everyday companion combining a clean design with convenient functionality.,4.2
+P0884,Cotton Cushion Cover Set - Series 12,Home,NordNest,77.33,Designed to complement your interiors while adding convenience to your daily routine.,4.8
+P0885,Animal Discovery Play Set - Series 11,Toys,FunFoundry,13.93,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0886,Adjustable Resistance Bands - Series 12,Sports,FlexFit,71.7,Support your active routine with practical design suited to training and everyday movement.,2.8
+P0887,Creative Building Blocks - Series 12,Toys,PlayOrbit,13.02,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.1
+P0888,Adjustable Leather Belt - Series 11,Accessories,Forma,36.23,"Designed to complement daily outfits and routines with a simple, versatile look.",4.3
+P0889,Natural Lip Care Balm - Series 11,Beauty,BotaniCare,24.96,"Made for everyday beauty routines, with a practical format for regular personal care.",3.7
+P0890,Junior Science Discovery Kit - Series 12,Toys,WonderWorks,119.1,Encourage curiosity and creative play with this engaging activity for young learners.,3.7
+P0891,Travel Organizer Pouch - Series 11,Accessories,EverydayEdit,60.82,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.2
+P0892,A Beginner's Guide to History - Series 12,Books,KnowledgeHouse,14.76,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.1
+P0893,Professional Yoga Mat - Series 12,Sports,PeakMotion,27.11,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,2.9
+P0894,Comfort Fit Joggers - Series 11,Clothing,Northline,16.48,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",5.0
+P0895,Minimalist Keychain Set - Series 11,Accessories,NomadWorks,65.59,A useful everyday companion combining a clean design with convenient functionality.,3.1
+P0896,Hydrating Face Serum - Series 12,Beauty,GlowTheory,27.37,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.7
+P0897,Daily Repair Shampoo - Series 12,Beauty,PureBloom,58.81,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.3
+P0898,Lightweight Running Shorts - Series 12,Sports,ActiveCore,17.03,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.8
+P0899,The Mystery of the Lost Archive - Series 12,Books,Inkstone,50.28,Discover an engaging learning experience through this carefully titled publication.,3.9
+P0900,Textured Knit Sweater - Series 11,Clothing,CottonLane,188.46,"Made for everyday versatility, this textured knit sweater - series 11 offers a comfortable fit and an easy-to-style look.",3.8
+P0901,Wooden Puzzle Adventure - Series 12,Toys,LittleGenius,17.71,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.6
+P0902,Learning Python Step by Step - Series 12,Books,OpenChapter,157.44,Explore key ideas and engaging perspectives in this thoughtfully presented book.,4.0
+P0903,Classic Leather Sling Bag - Series 12,Accessories,UrbanCraft,27.41,"Designed to complement daily outfits and routines with a simple, versatile look.",3.2
+P0904,Stainless Steel Sports Bottle - Series 12,Sports,StrideWorks,85.53,Support your active routine with practical design suited to training and everyday movement.,3.6
+P0905,Gentle Foaming Face Wash - Series 12,Beauty,DermaNest,149.42,"Made for everyday beauty routines, with a practical format for regular personal care.",4.8
+P0906,Modern Kitchen Container Set - Series 12,Home,HomeTheory,107.64,Bring practical style to your space with this thoughtfully designed home essential.,3.3
+P0907,Everyday Linen Shirt - Series 11,Clothing,ModeCraft,23.9,A wardrobe essential designed to work across casual outings and everyday occasions.,3.8
+P0908,Nourishing Body Lotion - Series 12,Beauty,SkinKind,28.15,A thoughtfully presented beauty essential for a simple and convenient daily routine.,2.9
+P0909,Classic Oxford Shirt - Series 12,Clothing,ThreadTheory,33.17,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.9
+P0910,Mechanical Gaming Keyboard - Series 12,Electronics,NovaTech,106.11,A versatile technology essential featuring a compact design and useful features for daily routines.,4.5
+P0911,Creative Art and Craft Set - Series 12,Toys,BrightMinds,13.43,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.0
+P0912,Vitamin C Brightening Cream - Series 12,Beauty,BotaniCare,36.51,A daily personal-care essential designed to fit conveniently into your self-care routine.,4.4
+P0913,Wooden Serving Tray - Series 12,Home,CasaLiving,39.17,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.6
+P0914,Compact Fitness Dumbbells - Series 12,Sports,MotionLab,8.62,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.2
+P0915,Compact Desk Organizer - Series 12,Home,OakAndStone,22.17,Designed to complement your interiors while adding convenience to your daily routine.,3.0
+P0916,Outdoor Cycling Gloves - Series 12,Sports,FlexFit,11.64,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.1
+P0917,Minimalist Travel Wallet - Series 12,Accessories,CarryCulture,25.09,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.9
+P0918,Moisture Repair Hair Mask - Series 12,Beauty,GlowTheory,66.84,"Made for everyday beauty routines, with a practical format for regular personal care.",3.3
+P0919,Everyday Canvas Backpack - Series 12,Accessories,Forma,10.12,A useful everyday companion combining a clean design with convenient functionality.,3.2
+P0920,Stainless Steel Wristwatch - Series 12,Accessories,EverydayEdit,22.74,"Designed to complement daily outfits and routines with a simple, versatile look.",3.9
+P0921,Performance Training T-Shirt - Series 12,Sports,PeakMotion,76.27,Support your active routine with practical design suited to training and everyday movement.,3.5
+P0922,Relaxed Fit Cotton Hoodie - Series 12,Clothing,UrbanWeave,48.03,"Made for everyday versatility, this relaxed fit cotton hoodie - series 12 offers a comfortable fit and an easy-to-style look.",4.7
+P0923,Decorative Table Vase - Series 12,Home,HavenWorks,76.8,Bring practical style to your space with this thoughtfully designed home essential.,4.4
+P0924,Soft Cotton Bedsheet Set - Series 12,Home,NordNest,28.74,"A functional home accessory with a contemporary look, suited to modern everyday living.",4.5
+P0925,Everyday Casual T-Shirt - Series 12,Clothing,Northline,19.31,A wardrobe essential designed to work across casual outings and everyday occasions.,4.9
+P0926,Compact Card Holder - Series 12,Accessories,NomadWorks,45.1,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.9
+P0927,Slim Fit Denim Jeans - Series 12,Clothing,CottonLane,22.63,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.3
+P0928,Daily Sunscreen Lotion - Series 12,Beauty,PureBloom,25.3,A thoughtfully presented beauty essential for a simple and convenient daily routine.,4.9
+P0929,Exercise Jump Rope - Series 12,Sports,ActiveCore,32.58,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.7
+P0930,Lightweight Summer Jacket - Series 12,Clothing,ModeCraft,123.21,"Made for everyday versatility, this lightweight summer jacket - series 12 offers a comfortable fit and an easy-to-style look.",4.2
+P0931,Wireless Optical Mouse - Series 12,Electronics,Soundora,32.35,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.1
+P0932,Interactive Learning Board - Series 12,Toys,FunFoundry,40.76,Encourage curiosity and creative play with this engaging activity for young learners.,3.5
+P0933,Contemporary Wall Shelf - Series 12,Home,HomeTheory,33.84,Designed to complement your interiors while adding convenience to your daily routine.,3.1
+P0934,HD Webcam - Series 12,Electronics,VoltEdge,94.81,"Designed for convenient everyday use, this hd webcam - series 12 combines practical functionality with a clean, modern design.",2.8
+P0935,Refreshing Facial Toner - Series 12,Beauty,DermaNest,103.7,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.3
+P0936,Premium Laptop Sleeve - Series 12,Accessories,UrbanCraft,33.09,A useful everyday companion combining a clean design with convenient functionality.,3.8
+P0937,Formal Office Trousers - Series 12,Clothing,ThreadTheory,81.04,A wardrobe essential designed to work across casual outings and everyday occasions.,3.2
+P0938,The Psychology of Everyday Life - Series 12,Books,PageTurner,26.51,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.3
+P0939,Cotton Polo Shirt - Series 12,Clothing,UrbanWeave,17.11,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",3.7
+P0940,Ceramic Table Lamp - Series 13,Home,CasaLiving,53.52,Bring practical style to your space with this thoughtfully designed home essential.,3.0
+P0941,Introduction to Data Science - Series 12,Books,BrightLeaf,36.99,Discover an engaging learning experience through this carefully titled publication.,3.5
+P0942,Colorful Stacking Rings - Series 12,Toys,PlayOrbit,61.72,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.6
+P0943,Sports Gym Duffel Bag - Series 12,Sports,StrideWorks,15.48,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.8
+P0944,The Complete Guide to Astronomy - Series 12,Books,KnowledgeHouse,26.85,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.9
+P0945,Classic Aviator Sunglasses - Series 12,Accessories,CarryCulture,9.94,"Designed to complement daily outfits and routines with a simple, versatile look.",4.4
+P0946,Smart LED Desk Lamp - Series 12,Electronics,PixelWorks,131.36,A versatile technology essential featuring a compact design and useful features for daily routines.,4.4
+P0947,Overnight Skin Repair Cream - Series 12,Beauty,SkinKind,195.03,"Made for everyday beauty routines, with a practical format for regular personal care.",4.7
+P0948,Comfort Fit Joggers - Series 12,Clothing,Northline,61.87,"Made for everyday versatility, this comfort fit joggers - series 12 offers a comfortable fit and an easy-to-style look.",3.1
+P0949,Adjustable Leather Belt - Series 12,Accessories,Forma,151.51,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",3.6
+P0950,Travel Organizer Pouch - Series 12,Accessories,EverydayEdit,84.16,A useful everyday companion combining a clean design with convenient functionality.,4.9
+P0951,FlexRun Training Shoes - Series 13,Sports,MotionLab,49.89,Support your active routine with practical design suited to training and everyday movement.,5.0
+P0952,Portable SSD Drive - Series 12,Electronics,Auralink,48.41,Bring convenience to your setup with this thoughtfully designed electronic accessory.,4.7
+P0953,Minimalist Keychain Set - Series 12,Accessories,NomadWorks,12.0,"Designed to complement daily outfits and routines with a simple, versatile look.",4.1
+P0954,Wireless Bluetooth Earbuds - Series 13,Electronics,NovaTech,41.38,"Designed for convenient everyday use, this wireless bluetooth earbuds - series 13 combines practical functionality with a clean, modern design.",4.5
+P0955,Classic Leather Sling Bag - Series 13,Accessories,UrbanCraft,19.32,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",4.1
+P0956,Adjustable Resistance Bands - Series 13,Sports,FlexFit,40.72,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,3.1
+P0957,Natural Lip Care Balm - Series 12,Beauty,BotaniCare,129.93,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.5
+P0958,Textured Knit Sweater - Series 12,Clothing,CottonLane,21.53,A wardrobe essential designed to work across casual outings and everyday occasions.,3.6
+P0959,Mini Construction Vehicle Set - Series 12,Toys,WonderWorks,41.51,"A playful addition to a child's collection, combining discovery and hands-on activity.",3.0
+P0960,Minimalist Travel Wallet - Series 13,Accessories,CarryCulture,19.95,A useful everyday companion combining a clean design with convenient functionality.,3.8
+P0961,Stories from Around the World - Series 12,Books,Inkstone,44.47,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.4
+P0962,Portable Bluetooth Speaker - Series 13,Electronics,Soundora,51.55,A versatile technology essential featuring a compact design and useful features for daily routines.,3.4
+P0963,Professional Yoga Mat - Series 13,Sports,PeakMotion,16.81,"A useful addition to your workout essentials, combining practical features with an active lifestyle design.",3.4
+P0964,Smart Fitness Watch - Series 13,Electronics,VoltEdge,27.04,Bring convenience to your setup with this thoughtfully designed electronic accessory.,3.2
+P0965,Educational Number Puzzle - Series 12,Toys,LittleGenius,40.14,Encourage curiosity and creative play with this engaging activity for young learners.,3.3
+P0966,Everyday Canvas Backpack - Series 13,Accessories,Forma,18.71,"Designed to complement daily outfits and routines with a simple, versatile look.",3.8
+P0967,Principles of Creative Thinking - Series 12,Books,OpenChapter,14.35,Discover an engaging learning experience through this carefully titled publication.,4.8
+P0968,Modular Storage Organizer - Series 13,Home,OakAndStone,17.33,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.8
+P0969,Magnetic Building Tiles - Series 12,Toys,BrightMinds,19.07,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.9
+P0970,Minimalist Wall Clock - Series 13,Home,HavenWorks,36.35,Designed to complement your interiors while adding convenience to your daily routine.,3.9
+P0971,Cotton Cushion Cover Set - Series 13,Home,NordNest,5.45,Bring practical style to your space with this thoughtfully designed home essential.,3.9
+P0972,Foundations of Modern Science - Series 13,Books,PageTurner,17.28,Explore key ideas and engaging perspectives in this thoughtfully presented book.,5.0
+P0973,Hydrating Face Serum - Series 13,Beauty,GlowTheory,20.53,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.7
+P0974,Animal Discovery Play Set - Series 12,Toys,FunFoundry,47.19,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.4
+P0975,Everyday Linen Shirt - Series 12,Clothing,ModeCraft,63.85,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",2.8
+P0976,Creative Building Blocks - Series 13,Toys,PlayOrbit,147.11,Encourage curiosity and creative play with this engaging activity for young learners.,5.0
+P0977,Junior Science Discovery Kit - Series 13,Toys,WonderWorks,73.72,Designed to make playtime enjoyable while encouraging exploration and imagination.,3.4
+P0978,Stainless Steel Wristwatch - Series 13,Accessories,EverydayEdit,24.58,"Complete your everyday style with this versatile accessory, designed with practicality in mind.",2.8
+P0979,The Art of Deep Learning - Series 13,Books,BrightLeaf,106.34,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",4.3
+P0980,Classic Oxford Shirt - Series 13,Clothing,ThreadTheory,16.01,"Made for everyday versatility, this classic oxford shirt - series 13 offers a comfortable fit and an easy-to-style look.",4.5
+P0981,Relaxed Fit Cotton Hoodie - Series 13,Clothing,UrbanWeave,68.95,A wardrobe essential designed to work across casual outings and everyday occasions.,3.6
+P0982,Wooden Puzzle Adventure - Series 13,Toys,LittleGenius,21.02,"A playful addition to a child's collection, combining discovery and hands-on activity.",4.2
+P0983,Creative Art and Craft Set - Series 13,Toys,BrightMinds,34.41,Encourage curiosity and creative play with this engaging activity for young learners.,3.5
+P0984,A Beginner's Guide to History - Series 13,Books,KnowledgeHouse,26.57,Discover an engaging learning experience through this carefully titled publication.,3.9
+P0985,The Mystery of the Lost Archive - Series 13,Books,Inkstone,86.31,Explore key ideas and engaging perspectives in this thoughtfully presented book.,3.7
+P0986,Noise Cancelling Headphones - Series 13,Electronics,PixelWorks,9.21,"Designed for convenient everyday use, this noise cancelling headphones - series 13 combines practical functionality with a clean, modern design.",3.4
+P0987,Compact Card Holder - Series 13,Accessories,NomadWorks,103.37,A useful everyday companion combining a clean design with convenient functionality.,4.7
+P0988,Everyday Casual T-Shirt - Series 13,Clothing,Northline,83.96,"Combining a timeless silhouette with practical comfort, this piece is easy to wear throughout the day.",4.3
+P0989,Daily Repair Shampoo - Series 13,Beauty,PureBloom,24.81,"Made for everyday beauty routines, with a practical format for regular personal care.",3.8
+P0990,Lightweight Running Shorts - Series 13,Sports,ActiveCore,13.58,Support your active routine with practical design suited to training and everyday movement.,3.3
+P0991,Gentle Foaming Face Wash - Series 13,Beauty,DermaNest,89.92,A thoughtfully presented beauty essential for a simple and convenient daily routine.,3.8
+P0992,Learning Python Step by Step - Series 13,Books,OpenChapter,92.25,"A reading selection for curious minds, with concepts and insights to explore at your own pace.",3.8
+P0993,Interactive Learning Board - Series 13,Toys,FunFoundry,32.53,Designed to make playtime enjoyable while encouraging exploration and imagination.,4.0
+P0994,Nourishing Body Lotion - Series 13,Beauty,SkinKind,116.56,A daily personal-care essential designed to fit conveniently into your self-care routine.,3.8
+P0995,Modern Kitchen Container Set - Series 13,Home,HomeTheory,12.57,"A functional home accessory with a contemporary look, suited to modern everyday living.",3.1
+P0996,Stainless Steel Sports Bottle - Series 13,Sports,StrideWorks,39.26,Designed for fitness enthusiasts seeking comfort and functionality during regular exercise.,4.2
+P0997,Slim Fit Denim Jeans - Series 13,Clothing,CottonLane,40.62,"Made for everyday versatility, this slim fit denim jeans - series 13 offers a comfortable fit and an easy-to-style look.",3.8
+P0998,Lightweight Summer Jacket - Series 13,Clothing,ModeCraft,42.45,A wardrobe essential designed to work across casual outings and everyday occasions.,3.7
+P0999,Vitamin C Brightening Cream - Series 13,Beauty,BotaniCare,40.22,"Made for everyday beauty routines, with a practical format for regular personal care.",4.1
+P1000,Compact Power Bank - Series 13,Electronics,Auralink,63.01,A versatile technology essential featuring a compact design and useful features for daily routines.,3.0

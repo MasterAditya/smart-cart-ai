@@ -1,0 +1,6 @@
+product_id,product_name,image_path,search_query,status
+P0001,Ceramic Table Lamp,,Ceramic Table Lamp Home,not_found
+P0002,Hydrating Face Serum,,Hydrating Face Serum Beauty,not_found
+P0003,Foundations of Modern Science,,Foundations of Modern Science Books,not_found
+P0004,FlexRun Training Shoes,,FlexRun Training Shoes Sports,not_found
+P0005,Classic Leather Sling Bag,assets\product_images\P0005\000001.jpg,Classic Leather Sling Bag Accessories,downloaded
